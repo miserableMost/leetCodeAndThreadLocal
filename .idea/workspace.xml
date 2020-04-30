@@ -1,0 +1,1571 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c600c158-b654-4f97-bf24-4c7a192381b5" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Test2019$T456_find132pattern.ic" NAME="T456_find132pattern Coverage Results" MODIFIED="1566050822461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>medium.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Test2019$T414_.ic" NAME="T414_第三大的数 Coverage Results" MODIFIED="1587434106806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>newTest.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="209" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Test2019" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/findJob/second/blockQueue/ProdConsumer_BlockQueueDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/findJob/second/gcroots/GCRootsDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="325">
+              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sort/Test12.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="65">
+              <caret line="28" selection-start-line="28" selection-end-line="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sort/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-618">
+              <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/medium2/T516_最长回文子序列.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="900">
+              <caret line="36" column="28" lean-forward="true" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/medium2/T416_分割等和子集.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="205">
+              <caret line="44" column="5" lean-forward="true" selection-start-line="19" selection-start-column="4" selection-end-line="44" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/medium2/T494_目标和.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-384">
+              <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/medium2/T322_coinChange_10_8.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="16">
+              <caret line="30" column="18" lean-forward="true" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/medium2/T474_一和零.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sort/TestQucik.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="725">
+              <caret line="31" selection-start-line="31" selection-end-line="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Singleton" />
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>minCost</find>
+      <find>sum</find>
+      <find>p</find>
+      <find>head.</find>
+      <find>head</find>
+      <find>回文</find>
+      <find>T23</find>
+      <find>公平</find>
+      <find>new Comp</find>
+      <find>T15</find>
+      <find>T15_three</find>
+      <find>LRU</find>
+      <find>306</find>
+      <find>560</find>
+      <find>T326</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>minCost</replace>
+      <replace>p</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>E:\Test2019\src\</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/medium/T79_exist_9_3.java" />
+        <option value="$PROJECT_DIR$/src/medium/T82_deleteDuplicates_9_4.java" />
+        <option value="$PROJECT_DIR$/src/medium/T156_上下翻转二叉树.java" />
+        <option value="$PROJECT_DIR$/src/medium/T159_至多包含两个不同字符的最长子串.java" />
+        <option value="$PROJECT_DIR$/src/medium/T161_相隔为1的编辑距离.java" />
+        <option value="$PROJECT_DIR$/src/medium/T163_缺失的区间.java" />
+        <option value="$PROJECT_DIR$/src/medium/T186_翻转字符串里的单词.java" />
+        <option value="$PROJECT_DIR$/src/HuaWeiCode/demo4/Method.java" />
+        <option value="$PROJECT_DIR$/src/HuaWeiCode/demo4/Main.java" />
+        <option value="$PROJECT_DIR$/src/HuaWeiCode/demo8/Method.java" />
+        <option value="$PROJECT_DIR$/src/HuaWeiCode/demo8/Main.java" />
+        <option value="$PROJECT_DIR$/src/medium/T250_统计同值子树.java" />
+        <option value="$PROJECT_DIR$/src/medium/T253_会议室.java" />
+        <option value="$PROJECT_DIR$/src/medium/T259_较小的三数之和.java" />
+        <option value="$PROJECT_DIR$/src/medium/T267_回文排列2.java" />
+        <option value="$PROJECT_DIR$/src/hard/T45_jump.java" />
+        <option value="$PROJECT_DIR$/src/medium/T247_中心对称数2.java" />
+        <option value="$PROJECT_DIR$/src/medium/T376_摆动序列.java" />
+        <option value="$PROJECT_DIR$/src/medium/T332_重新安排行程.java" />
+        <option value="$PROJECT_DIR$/src/hard/dp/T300_最长上升子序列.java" />
+        <option value="$PROJECT_DIR$/src/hard/T126_findLadders_9_17.java" />
+        <option value="$PROJECT_DIR$/src/medium/T280_摆动序列.java" />
+        <option value="$PROJECT_DIR$/src/medium/T370_区间加法.java" />
+        <option value="$PROJECT_DIR$/src/medium/T370_区间加法_很秀.java" />
+        <option value="$PROJECT_DIR$/src/medium/T457_环形数组循环.java" />
+        <option value="$PROJECT_DIR$/src/medium/T457_环形数组循环_记住技巧.java" />
+        <option value="$PROJECT_DIR$/src/hard/dp/T1143_最长公共子序列.java" />
+        <option value="$PROJECT_DIR$/src/medium2/T695_岛屿的最大面积.java" />
+        <option value="$PROJECT_DIR$/src/medium/T249_移位字符串分组.java" />
+        <option value="$PROJECT_DIR$/src/PSoffer/T6.java" />
+        <option value="$PROJECT_DIR$/src/findJob/second/blockQueue/ProdConsumer_BlockQueueDemo.java" />
+        <option value="$PROJECT_DIR$/src/findJob/second/Sing.java" />
+        <option value="$PROJECT_DIR$/src/PSoffer/T12.java" />
+        <option value="$PROJECT_DIR$/src/newTest/T414_第三大的数.java" />
+        <option value="$PROJECT_DIR$/src/Color.java" />
+        <option value="$PROJECT_DIR$/src/GenericFruit.java" />
+        <option value="$PROJECT_DIR$/src/GenericClass.java" />
+        <option value="$PROJECT_DIR$/src/QuickSort.java" />
+        <option value="$PROJECT_DIR$/src/BubleSort.java" />
+        <option value="$PROJECT_DIR$/src/SelectSort.java" />
+        <option value="$PROJECT_DIR$/src/InsertSort.java" />
+        <option value="$PROJECT_DIR$/src/MergeSort.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/sort/BubleSort.java" />
+        <option value="$PROJECT_DIR$/src/sort/TestQucik.java" />
+        <option value="$PROJECT_DIR$/src/sort/Test12.java" />
+        <option value="$PROJECT_DIR$/src/sort/Solution.java" />
+        <option value="$PROJECT_DIR$/src/medium2/T516_最长回文子序列.java" />
+        <option value="$PROJECT_DIR$/src/medium2/T416_分割等和子集.java" />
+        <option value="$PROJECT_DIR$/src/medium2/T494_目标和.java" />
+        <option value="$PROJECT_DIR$/src/medium2/T474_一和零.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../apache-maven-3.6.0-bin/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="E:\apache-maven-3.6.0-bin\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="281" />
+    <option name="y" value="177" />
+    <option name="width" value="1153" />
+    <option name="height" value="764" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages ProjectPane="false" />
+      <showMembers ProjectPane="true" />
+      <hideEmptyPackages ProjectPane="false" />
+      <abbreviatePackageNames ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Test2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Test2019" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Test2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Test2019" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Test2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Test2019" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="medium2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Test2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Test2019" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="sort" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1588171757551" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../jiuyexiangmu1/sell" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Test2019\src\Test\October\T341" />
+      <recent name="E:\Test2019\src\designPattern\single" />
+      <recent name="E:\Test2019\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="HuaWeiCode.demo7" />
+      <recent name="HuaWeiCode.demo4" />
+      <recent name="HuaWeiCode.demo6" />
+      <recent name="hard" />
+      <recent name="findJob.second.lock" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Test2019\src\HuaWeiCode\demo8" />
+      <recent name="E:\Test2019\src\HuaWeiCode\upload" />
+      <recent name="E:\Test2019\src\HuaWeiCode\demo7" />
+      <recent name="E:\Test2019\src\HuaWeiCode\demo6" />
+      <recent name="E:\Test2019\src\HuaWeiCode" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="minCost" />
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="BubleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sort.BubleSort" />
+      <module name="Test2019" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InsertSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sort.InsertSort" />
+      <module name="Test2019" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sort.Main" />
+      <module name="Test2019" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sort.MergeSort" />
+      <module name="Test2019" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SelectSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sort.SelectSort" />
+      <module name="Test2019" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WaitNotifyRunnable" type="Application" factoryName="Application" singleton="false" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test.WaitNotifyRunnable" />
+      <module name="Test2019" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.WaitNotifyRunnable" />
+      <item itemvalue="Application.BubleSort" />
+      <item itemvalue="Application.SelectSort" />
+      <item itemvalue="Application.InsertSort" />
+      <item itemvalue="Application.MergeSort" />
+      <item itemvalue="Application.Main" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.MergeSort" />
+        <item itemvalue="Application.InsertSort" />
+        <item itemvalue="Application.SelectSort" />
+        <item itemvalue="Application.BubleSort" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c600c158-b654-4f97-bf24-4c7a192381b5" name="Default Changelist" comment="" />
+      <created>1554645358375</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554645358375</updated>
+      <workItem from="1554645362423" duration="3263000" />
+      <workItem from="1554719167472" duration="13035000" />
+      <workItem from="1554795692096" duration="12497000" />
+      <workItem from="1554864016008" duration="12000" />
+      <workItem from="1554872653670" duration="5606000" />
+      <workItem from="1554983847250" duration="7861000" />
+      <workItem from="1555031224046" duration="15839000" />
+      <workItem from="1555123852261" duration="6909000" />
+      <workItem from="1555213161505" duration="6090000" />
+      <workItem from="1555293562891" duration="4077000" />
+      <workItem from="1555329175549" duration="1151000" />
+      <workItem from="1555335212022" duration="599000" />
+      <workItem from="1555398188602" duration="9148000" />
+      <workItem from="1555417680271" duration="1779000" />
+      <workItem from="1555466227544" duration="5625000" />
+      <workItem from="1555509551518" duration="556000" />
+      <workItem from="1555846745215" duration="2446000" />
+      <workItem from="1555893943677" duration="7305000" />
+      <workItem from="1555901536073" duration="114000" />
+      <workItem from="1555927148062" duration="6960000" />
+      <workItem from="1556024408426" duration="5902000" />
+      <workItem from="1556068214748" duration="6271000" />
+      <workItem from="1556242042546" duration="2372000" />
+      <workItem from="1556263647227" duration="45000" />
+      <workItem from="1556267485363" duration="4997000" />
+      <workItem from="1556326570814" duration="149000" />
+      <workItem from="1556372530754" duration="3400000" />
+      <workItem from="1556426890241" duration="31000" />
+      <workItem from="1556457516488" duration="1797000" />
+      <workItem from="1556506171756" duration="3011000" />
+      <workItem from="1556604132913" duration="548000" />
+      <workItem from="1556604722006" duration="350000" />
+      <workItem from="1556605093316" duration="1789000" />
+      <workItem from="1556607212258" duration="1709000" />
+      <workItem from="1556614981256" duration="3607000" />
+      <workItem from="1556673817159" duration="3105000" />
+      <workItem from="1556695020070" duration="2161000" />
+      <workItem from="1556788663869" duration="45000" />
+      <workItem from="1556800355928" duration="2079000" />
+      <workItem from="1556854704325" duration="12000" />
+      <workItem from="1556855709311" duration="18000" />
+      <workItem from="1556856606147" duration="9153000" />
+      <workItem from="1556950303978" duration="2073000" />
+      <workItem from="1556975298313" duration="1388000" />
+      <workItem from="1557038939181" duration="671000" />
+      <workItem from="1557145646112" duration="6928000" />
+      <workItem from="1557286900348" duration="69000" />
+      <workItem from="1557491773438" duration="4197000" />
+      <workItem from="1557833039863" duration="5542000" />
+      <workItem from="1557910370260" duration="18000" />
+      <workItem from="1557985995682" duration="12719000" />
+      <workItem from="1558015512421" duration="16000" />
+      <workItem from="1558015770909" duration="204000" />
+      <workItem from="1558164170032" duration="3148000" />
+      <workItem from="1558182126386" duration="2492000" />
+      <workItem from="1558255573327" duration="285000" />
+      <workItem from="1558875604263" duration="690000" />
+      <workItem from="1559006743524" duration="20000" />
+      <workItem from="1559444602669" duration="1845000" />
+      <workItem from="1559570027506" duration="84000" />
+      <workItem from="1561000103164" duration="11147000" />
+      <workItem from="1561080003194" duration="2652000" />
+      <workItem from="1561124996618" duration="521000" />
+      <workItem from="1561296101064" duration="2420000" />
+      <workItem from="1561339527259" duration="8916000" />
+      <workItem from="1561371953169" duration="12044000" />
+      <workItem from="1561512249678" duration="12313000" />
+      <workItem from="1561707222352" duration="35000" />
+      <workItem from="1561723149842" duration="631000" />
+      <workItem from="1561729079590" duration="3250000" />
+      <workItem from="1561787380301" duration="15107000" />
+      <workItem from="1561860506985" duration="7698000" />
+      <workItem from="1561899084388" duration="3853000" />
+      <workItem from="1561903181048" duration="932000" />
+      <workItem from="1561948622215" duration="12204000" />
+      <workItem from="1562034659676" duration="11895000" />
+      <workItem from="1562061226510" duration="3257000" />
+      <workItem from="1562118501606" duration="10000" />
+      <workItem from="1562237674878" duration="2339000" />
+      <workItem from="1562322980419" duration="16000" />
+      <workItem from="1562923904433" duration="14023000" />
+      <workItem from="1562981349367" duration="10114000" />
+      <workItem from="1563018981492" duration="6414000" />
+      <workItem from="1563068376954" duration="19717000" />
+      <workItem from="1563156622160" duration="26921000" />
+      <workItem from="1563201544591" duration="73000" />
+      <workItem from="1563242211976" duration="19457000" />
+      <workItem from="1563328649745" duration="14195000" />
+      <workItem from="1563424297526" duration="11983000" />
+      <workItem from="1563504310001" duration="13201000" />
+      <workItem from="1563606378140" duration="14220000" />
+      <workItem from="1563674979750" duration="14243000" />
+      <workItem from="1563759263535" duration="23708000" />
+      <workItem from="1563848479935" duration="27611000" />
+      <workItem from="1563934451688" duration="17946000" />
+      <workItem from="1563975290553" duration="2606000" />
+      <workItem from="1564026714087" duration="20009000" />
+      <workItem from="1564135193256" duration="844000" />
+      <workItem from="1564140760625" duration="1923000" />
+      <workItem from="1564201194145" duration="10589000" />
+      <workItem from="1564280674595" duration="6154000" />
+      <workItem from="1564374361208" duration="6110000" />
+      <workItem from="1564404023614" duration="5967000" />
+      <workItem from="1564451725812" duration="14539000" />
+      <workItem from="1564536868203" duration="6665000" />
+      <workItem from="1564560472021" duration="2822000" />
+      <workItem from="1564625329021" duration="23879000" />
+      <workItem from="1564708316171" duration="13836000" />
+      <workItem from="1564794606266" duration="10507000" />
+      <workItem from="1564816229687" duration="3153000" />
+      <workItem from="1564886397421" duration="15171000" />
+      <workItem from="1564970673103" duration="15275000" />
+      <workItem from="1565059866036" duration="10424000" />
+      <workItem from="1565328213433" duration="2170000" />
+      <workItem from="1565404826372" duration="12318000" />
+      <workItem from="1565486877398" duration="9732000" />
+      <workItem from="1565574231959" duration="14088000" />
+      <workItem from="1565659687788" duration="13631000" />
+      <workItem from="1565751364437" duration="9134000" />
+      <workItem from="1565771647628" duration="10467000" />
+      <workItem from="1565833153185" duration="10293000" />
+      <workItem from="1565947809774" duration="644000" />
+      <workItem from="1565948476112" duration="760000" />
+      <workItem from="1565949256240" duration="690000" />
+      <workItem from="1565949970078" duration="6161000" />
+      <workItem from="1566029418067" duration="8641000" />
+      <workItem from="1566096758001" duration="14841000" />
+      <workItem from="1566440620626" duration="873000" />
+      <workItem from="1566617158211" duration="15083000" />
+      <workItem from="1566727788682" duration="4443000" />
+      <workItem from="1566911373370" duration="5503000" />
+      <workItem from="1567056842470" duration="21265000" />
+      <workItem from="1567124248790" duration="20376000" />
+      <workItem from="1567219380197" duration="14566000" />
+      <workItem from="1567407813775" duration="10724000" />
+      <workItem from="1567429155234" duration="760000" />
+      <workItem from="1567477880695" duration="1754000" />
+      <workItem from="1567483070201" duration="14538000" />
+      <workItem from="1567589291190" duration="13966000" />
+      <workItem from="1567647563129" duration="10569000" />
+      <workItem from="1567734823003" duration="2663000" />
+      <workItem from="1567762030295" duration="6141000" />
+      <workItem from="1567820680649" duration="882000" />
+      <workItem from="1567823792064" duration="7767000" />
+      <workItem from="1567854766626" duration="599000" />
+      <workItem from="1567858535496" duration="165000" />
+      <workItem from="1567859974334" duration="3784000" />
+      <workItem from="1567905260615" duration="11807000" />
+      <workItem from="1567951407321" duration="1720000" />
+      <workItem from="1567993597696" duration="5947000" />
+      <workItem from="1568079327230" duration="15239000" />
+      <workItem from="1568125988099" duration="53000" />
+      <workItem from="1568167803009" duration="15519000" />
+      <workItem from="1568251706099" duration="6373000" />
+      <workItem from="1568293280615" duration="55000" />
+      <workItem from="1568339555378" duration="605000" />
+      <workItem from="1568376589105" duration="4066000" />
+      <workItem from="1568425799109" duration="442000" />
+      <workItem from="1568433934015" duration="5534000" />
+      <workItem from="1568460741978" duration="1046000" />
+      <workItem from="1568545863746" duration="3464000" />
+      <workItem from="1568597345941" duration="8052000" />
+      <workItem from="1568685618888" duration="13033000" />
+      <workItem from="1568772682970" duration="8765000" />
+      <workItem from="1568813976045" duration="2687000" />
+      <workItem from="1568857868278" duration="4175000" />
+      <workItem from="1568945039835" duration="2687000" />
+      <workItem from="1569116883275" duration="3098000" />
+      <workItem from="1569219186195" duration="5973000" />
+      <workItem from="1569291329151" duration="13701000" />
+      <workItem from="1569380450137" duration="13045000" />
+      <workItem from="1569463664205" duration="8299000" />
+      <workItem from="1569566894453" duration="6695000" />
+      <workItem from="1569578266819" duration="5753000" />
+      <workItem from="1569664313753" duration="8463000" />
+      <workItem from="1569725140645" duration="35000" />
+      <workItem from="1569756364606" duration="1208000" />
+      <workItem from="1569849560006" duration="1024000" />
+      <workItem from="1570156943858" duration="5651000" />
+      <workItem from="1570250029750" duration="3142000" />
+      <workItem from="1570327603465" duration="7517000" />
+      <workItem from="1570413889333" duration="24776000" />
+      <workItem from="1570501010208" duration="21793000" />
+      <workItem from="1570587963896" duration="6243000" />
+      <workItem from="1570690693706" duration="56000" />
+      <workItem from="1570796205996" duration="29000" />
+      <workItem from="1570800962566" duration="21000" />
+      <workItem from="1570955390325" duration="1956000" />
+      <workItem from="1571050457683" duration="36000" />
+      <workItem from="1571050583430" duration="7917000" />
+      <workItem from="1571115171463" duration="3453000" />
+      <workItem from="1571537590266" duration="9734000" />
+      <workItem from="1571559400849" duration="15218000" />
+      <workItem from="1571816648306" duration="311000" />
+      <workItem from="1571905748962" duration="1564000" />
+      <workItem from="1572004448735" duration="182000" />
+      <workItem from="1572006931630" duration="2471000" />
+      <workItem from="1572052591483" duration="8081000" />
+      <workItem from="1572142354200" duration="9752000" />
+      <workItem from="1572228008262" duration="4849000" />
+      <workItem from="1572348486731" duration="8624000" />
+      <workItem from="1572400701508" duration="968000" />
+      <workItem from="1572495745845" duration="1821000" />
+      <workItem from="1572574226072" duration="11036000" />
+      <workItem from="1572663596473" duration="444000" />
+      <workItem from="1572687035112" duration="3303000" />
+      <workItem from="1572745792860" duration="15496000" />
+      <workItem from="1572855482160" duration="5828000" />
+      <workItem from="1572920935440" duration="4686000" />
+      <workItem from="1573385808113" duration="1625000" />
+      <workItem from="1573447698712" duration="681000" />
+      <workItem from="1573903902584" duration="4770000" />
+      <workItem from="1573959194401" duration="1839000" />
+      <workItem from="1574080940507" duration="1200000" />
+      <workItem from="1574082171500" duration="38000" />
+      <workItem from="1574082230806" duration="6159000" />
+      <workItem from="1574132444824" duration="6783000" />
+      <workItem from="1574215034931" duration="11952000" />
+      <workItem from="1574325323310" duration="4513000" />
+      <workItem from="1574346828793" duration="67000" />
+      <workItem from="1574391156839" duration="1198000" />
+      <workItem from="1574602109026" duration="3816000" />
+      <workItem from="1574647947684" duration="710000" />
+      <workItem from="1574771411088" duration="6606000" />
+      <workItem from="1574861793500" duration="3027000" />
+      <workItem from="1575200242341" duration="7599000" />
+      <workItem from="1575605302916" duration="5607000" />
+      <workItem from="1575685144244" duration="3452000" />
+      <workItem from="1575721019508" duration="265000" />
+      <workItem from="1575770810158" duration="3282000" />
+      <workItem from="1575859941723" duration="806000" />
+      <workItem from="1575961181979" duration="664000" />
+      <workItem from="1575979683088" duration="599000" />
+      <workItem from="1576067008784" duration="7927000" />
+      <workItem from="1576140911564" duration="3000" />
+      <workItem from="1576144806823" duration="4285000" />
+      <workItem from="1576221652602" duration="4878000" />
+      <workItem from="1576414626624" duration="8000" />
+      <workItem from="1576497945907" duration="3956000" />
+      <workItem from="1576566783373" duration="2492000" />
+      <workItem from="1576634354500" duration="2518000" />
+      <workItem from="1576720159491" duration="6382000" />
+      <workItem from="1576837472438" duration="8778000" />
+      <workItem from="1576933712557" duration="599000" />
+      <workItem from="1576980674857" duration="18470000" />
+      <workItem from="1577066044695" duration="7198000" />
+      <workItem from="1577161932983" duration="655000" />
+      <workItem from="1577267650623" duration="13016000" />
+      <workItem from="1577326275313" duration="1881000" />
+      <workItem from="1577411481478" duration="7168000" />
+      <workItem from="1577502834342" duration="1345000" />
+      <workItem from="1577581660463" duration="9243000" />
+      <workItem from="1577612838235" duration="2393000" />
+      <workItem from="1577625884899" duration="2326000" />
+      <workItem from="1577675186567" duration="5653000" />
+      <workItem from="1577689084756" duration="7384000" />
+      <workItem from="1577766852299" duration="6166000" />
+      <workItem from="1577856338762" duration="132000" />
+      <workItem from="1578034687475" duration="1480000" />
+      <workItem from="1578113927294" duration="599000" />
+      <workItem from="1578192001385" duration="15261000" />
+      <workItem from="1578293940921" duration="2023000" />
+      <workItem from="1578308085717" duration="152000" />
+      <workItem from="1578320173512" duration="1598000" />
+      <workItem from="1578362050460" duration="3497000" />
+      <workItem from="1578365627570" duration="72000" />
+      <workItem from="1578365742156" duration="9107000" />
+      <workItem from="1578451202289" duration="10696000" />
+      <workItem from="1578534334569" duration="2809000" />
+      <workItem from="1578705587560" duration="2418000" />
+      <workItem from="1579005223527" duration="43000" />
+      <workItem from="1579168186482" duration="6760000" />
+      <workItem from="1579232298200" duration="2849000" />
+      <workItem from="1579491724997" duration="1378000" />
+      <workItem from="1579501843544" duration="29547000" />
+      <workItem from="1579604089582" duration="9000" />
+      <workItem from="1579673014086" duration="13200000" />
+      <workItem from="1579782602749" duration="566000" />
+      <workItem from="1579784457956" duration="3188000" />
+      <workItem from="1579828642319" duration="11371000" />
+      <workItem from="1579878753202" duration="3425000" />
+      <workItem from="1579913645582" duration="11651000" />
+      <workItem from="1580090322775" duration="89000" />
+      <workItem from="1580431894436" duration="797000" />
+      <workItem from="1580614664934" duration="599000" />
+      <workItem from="1580693722773" duration="3690000" />
+      <workItem from="1580876249241" duration="761000" />
+      <workItem from="1580953377734" duration="634000" />
+      <workItem from="1581057623692" duration="1220000" />
+      <workItem from="1581129101035" duration="599000" />
+      <workItem from="1581215077032" duration="15000" />
+      <workItem from="1581236538560" duration="2137000" />
+      <workItem from="1581471032019" duration="25495000" />
+      <workItem from="1581563536451" duration="21478000" />
+      <workItem from="1581642473306" duration="25596000" />
+      <workItem from="1581730030842" duration="1272000" />
+      <workItem from="1581828889168" duration="26000" />
+      <workItem from="1582023213603" duration="3131000" />
+      <workItem from="1582074663649" duration="118000" />
+      <workItem from="1582287834726" duration="2008000" />
+      <workItem from="1582332434195" duration="33328000" />
+      <workItem from="1582415792301" duration="259000" />
+      <workItem from="1582454972297" duration="346000" />
+      <workItem from="1582455360578" duration="5908000" />
+      <workItem from="1582504389585" duration="9269000" />
+      <workItem from="1582591887989" duration="1401000" />
+      <workItem from="1582764027158" duration="604000" />
+      <workItem from="1582790455389" duration="878000" />
+      <workItem from="1582877330451" duration="42000" />
+      <workItem from="1582886213749" duration="6828000" />
+      <workItem from="1582941305538" duration="5552000" />
+      <workItem from="1583035001489" duration="3417000" />
+      <workItem from="1583157060700" duration="320000" />
+      <workItem from="1583194978608" duration="1197000" />
+      <workItem from="1583284786682" duration="9770000" />
+      <workItem from="1583374501345" duration="7855000" />
+      <workItem from="1583458824921" duration="4387000" />
+      <workItem from="1583540697727" duration="16534000" />
+      <workItem from="1583629271588" duration="23590000" />
+      <workItem from="1583677801453" duration="488000" />
+      <workItem from="1583716004443" duration="14779000" />
+      <workItem from="1583798841326" duration="2577000" />
+      <workItem from="1583891262872" duration="4888000" />
+      <workItem from="1583971730239" duration="6132000" />
+      <workItem from="1584013306914" duration="11236000" />
+      <workItem from="1584059953064" duration="29248000" />
+      <workItem from="1584149578730" duration="16234000" />
+      <workItem from="1584233736891" duration="3417000" />
+      <workItem from="1584325559092" duration="1951000" />
+      <workItem from="1584403625369" duration="1804000" />
+      <workItem from="1584491760996" duration="1202000" />
+      <workItem from="1584577454033" duration="929000" />
+      <workItem from="1584687470252" duration="552000" />
+      <workItem from="1584748404105" duration="4420000" />
+      <workItem from="1584952161949" duration="599000" />
+      <workItem from="1585055277759" duration="3166000" />
+      <workItem from="1585192532452" duration="9183000" />
+      <workItem from="1585270306503" duration="5379000" />
+      <workItem from="1585359217690" duration="99000" />
+      <workItem from="1585389734272" duration="13236000" />
+      <workItem from="1585451325066" duration="14696000" />
+      <workItem from="1585530155682" duration="11198000" />
+      <workItem from="1585661307151" duration="10110000" />
+      <workItem from="1585715065482" duration="1183000" />
+      <workItem from="1585716960523" duration="11000" />
+      <workItem from="1585734071206" duration="1243000" />
+      <workItem from="1585788126613" duration="9381000" />
+      <workItem from="1585822437265" duration="10375000" />
+      <workItem from="1585894235304" duration="23223000" />
+      <workItem from="1585962602335" duration="31877000" />
+      <workItem from="1586050010222" duration="29828000" />
+      <workItem from="1586100075897" duration="673000" />
+      <workItem from="1586135040241" duration="21529000" />
+      <workItem from="1586224189928" duration="9106000" />
+      <workItem from="1586304520743" duration="10564000" />
+      <workItem from="1586337830566" duration="5152000" />
+      <workItem from="1586389692062" duration="11452000" />
+      <workItem from="1586478512268" duration="20071000" />
+      <workItem from="1586567698432" duration="35882000" />
+      <workItem from="1586652223171" duration="12339000" />
+      <workItem from="1586779906887" duration="599000" />
+      <workItem from="1586825242157" duration="17935000" />
+      <workItem from="1586876996912" duration="105000" />
+      <workItem from="1586907337590" duration="10281000" />
+      <workItem from="1587024581480" duration="1002000" />
+      <workItem from="1587028057122" duration="599000" />
+      <workItem from="1587087484362" duration="4613000" />
+      <workItem from="1587169945376" duration="1706000" />
+      <workItem from="1587256785719" duration="831000" />
+      <workItem from="1587288379691" duration="1974000" />
+      <workItem from="1587362465444" duration="5503000" />
+      <workItem from="1587430656729" duration="6512000" />
+      <workItem from="1587479973248" duration="1080000" />
+      <workItem from="1587514337007" duration="5010000" />
+      <workItem from="1587540988438" duration="8818000" />
+      <workItem from="1587604066347" duration="5837000" />
+      <workItem from="1588031194773" duration="1267000" />
+      <workItem from="1588130800320" duration="10711000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2399621000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="225" y="142" width="922" height="611" extended-state="1" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49787837" visible="true" weight="0.2025463" />
+      <window_info id="Structure" order="1" sideWeight="0.5021216" side_tool="true" weight="0.29758713" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.5021216" side_tool="true" weight="0.29758713" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32390383" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49093816" weight="0.20792079" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.37340876" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49413645" weight="0.32827735" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.51768035" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5090618" side_tool="true" weight="0.20792079" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3163597" />
+      <window_info anchor="bottom" id="Flutter Performance" order="13" side_tool="true" />
+      <window_info anchor="bottom" id="Thumbnails" order="14" weight="0.32956153" />
+      <window_info anchor="bottom" id="Duplicate detector" order="15" weight="0.32936078" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" sideWeight="0.49945828" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" weight="0.3297587" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" sideWeight="0.49646392" weight="0.327748" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" x="758" y="36" width="355" height="1154" id="leetcode" order="9" sideWeight="0.50353605" side_tool="true" type="FLOATING" weight="0.15138593" />
+      <window_info anchor="right" id="Coverage" order="10" side_tool="true" weight="0.3297587" />
+      <window_info anchor="right" id="Flutter Inspector" order="11" />
+      <window_info anchor="right" id="Flutter Outline" order="12" weight="0.3297587" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DataStructures/sort/TestSort.java</url>
+          <line>5</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Test/July/Test859_buddyStrings_7_23.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Test/July/Test509_fib_25.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Test/July/Test475_findRadius_31.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Test/July/Test1051_heightChecker_31.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Test/August/Test.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Test/August/D4_mostCommonWord_819_REMEMBER.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Test/August/D4_minDepth_111_Tree.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Test/August/D5_numMovesStones_1033.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Test/August/D5_checkPossibility_665.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Test/August/D5_numEquivDominoPairs_1128.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Test/August/D11_powerfulIntegers_970.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Test/August/D11_countPrimeSetBits_762.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Test/August/D11_relativeSortArray_1122.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Test/August/D12_removeDuplicates_26.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Test/August/D13_reverseOnlyLetters_917.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Test/August/D14_findSecondMinimumValue_671.java</url>
+          <line>45</line>
+          <properties />
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Test/August/D15_getSum_371.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Test/Medium/T542_updateMatrix_8_17.java</url>
+          <line>50</line>
+          <properties />
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Test/May/Test720_longestWord.java</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/medium2/T240_searchMatrix_9_26.java</url>
+          <line>43</line>
+          <properties />
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/medium2/T241_diffWaysToCompute_9_26.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/medium2/T287_findDuplicate_9_27.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/medium2/T416_canPartition_10_8_dp.java</url>
+          <line>47</line>
+          <properties />
+          <option name="timeStamp" value="114" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/medium2/T227_calculate_9_25.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/tryTest/Solution2.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="120" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/findJob/first/test/TestSinleton3.java</url>
+          <line>6</line>
+          <properties />
+          <option name="timeStamp" value="122" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/medium2/T313_nthSuperUglyNumber.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="125" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/PSoffer/T47.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="128" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/PSoffer/T51.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="132" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/findJob/Test.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="134" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../leetCode/leetcode/editor/cn/[24]两两交换链表中的节点.java</url>
+          <properties />
+          <option name="timeStamp" value="135" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../leetCode/leetcode/editor/cn/[92]反转链表 II.java</url>
+          <properties />
+          <option name="timeStamp" value="136" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../leetCode/leetcode/editor/cn/[141]环形链表.java</url>
+          <properties />
+          <option name="timeStamp" value="137" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../leetCode/leetcode/editor/cn/[143]重排链表.java</url>
+          <properties />
+          <option name="timeStamp" value="138" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../leetCode/leetcode/editor/cn/[148]排序链表.java</url>
+          <properties />
+          <option name="timeStamp" value="139" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/zuoshensuanfa/StackSort.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="140" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../leetCode/leetcode/editor/cn/[22]括号生成.java</url>
+          <properties />
+          <option name="timeStamp" value="141" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/hard/ByteDance/T445_两数相加2.java</url>
+          <line>45</line>
+          <properties />
+          <option name="timeStamp" value="152" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/HuaWeiCode/demo3/Test2.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="163" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/hard/ByteDance/T442_数组中重复的数字_记住.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="174" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/medium/T156_上下翻转二叉树.java</url>
+          <line>38</line>
+          <properties />
+          <option name="timeStamp" value="175" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/tryTest/Solution.java</url>
+          <line>3</line>
+          <properties class="tryTest.Solution" method="sumOfLeftLeaves">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="117" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/findJob/thread/CASCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/findJob/second/threadpool/MyThreadPoolDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="29" column="59" lean-forward="true" selection-start-line="29" selection-start-column="59" selection-end-line="29" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/medium/T94_inorderTraversal_8_18.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-518">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/medium/T95_generateTrees_9_6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test/April/Test326_Test342_isPowerOfThree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="38" column="23" lean-forward="true" selection-start-line="38" selection-start-column="23" selection-end-line="38" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sort/Sort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sort.java" />
+    <entry file="file://$PROJECT_DIR$/src/sort/Color.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sort/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1163">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sort/MergeSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-25">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sort/InsertSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sort/SelectSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-25">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sort/BubleSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sort/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-311">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sort/GenericClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sort/GenericFruit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/findJob/thread/MyCallable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/findJob/thread/MyRunnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/findJob/thread/NotificationDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-350">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/findJob/thread/ReentrantLockDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/findJob/thread/ReplaceDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/findJob/thread/RunnableDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/findJob/thread/StringBufferWithoutSync.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/findJob/thread/SyncBlockAndMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/findJob/thread/SyncDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/findJob/thread/SyncThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1325">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/findJob/thread/ThreadDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/findJob/thread/ThreadPoolDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/findJob/thread/WaitSleepDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/findJob/thread/YieldDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/findJob/jvm/gc/Finalization.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/findJob/jvm/gc/MyObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/findJob/jvm/gc/NormalObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/findJob/jvm/gc/NormalObjectWeakReference.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/findJob/jvm/gc/ReferenceQueueTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/findJob/jvm/gc/ReferenceCounterProblem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/findJob/reflect/ClassLoaderChecker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/findJob/reflect/LoadDifference.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/findJob/reflect/MyClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/findJob/reflect/ReflectSample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/findJob/second/blockQueue/BlockingQueueDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="800">
+          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/findJob/second/blockQueue/ProdConsumer_BlockQueueDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/findJob/second/gcroots/GCRootsDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sort/TestQucik.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="725">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sort/Test12.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="65">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sort/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-618">
+          <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/medium2/T516_最长回文子序列.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="36" column="28" lean-forward="true" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/medium2/T416_分割等和子集.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="44" column="5" lean-forward="true" selection-start-line="19" selection-start-column="4" selection-end-line="44" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/medium2/T322_coinChange_10_8.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="30" column="18" lean-forward="true" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/medium2/T494_目标和.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-384">
+          <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/medium2/T474_一和零.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Test2019</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
