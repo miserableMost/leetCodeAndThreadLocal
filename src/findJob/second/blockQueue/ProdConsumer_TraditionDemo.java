@@ -32,7 +32,7 @@ class ShareData {  //资源类
         try {
             //1 判断
             while(number == 0) {
-                //等待，不能生产
+                //等待，不能消费
                 condition.await();
             }
             //2 干活

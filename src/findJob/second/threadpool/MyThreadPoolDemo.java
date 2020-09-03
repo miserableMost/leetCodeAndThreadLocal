@@ -18,6 +18,7 @@ import java.util.concurrent.*;
 
 public class MyThreadPoolDemo {
     public static void main(String[] args) {
+        threadPoolInit();
         //知道硬件资源
         System.out.println(Runtime.getRuntime().availableProcessors());
         ExecutorService threadpool = new ThreadPoolExecutor(

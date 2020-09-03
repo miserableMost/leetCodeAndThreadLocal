@@ -6,6 +6,7 @@ public class ReentrantLockDemo implements  Runnable{
     private static ReentrantLock lock = new ReentrantLock(false);
     @Override
     public void run(){
+
         while (true){
             try{
                 lock.lock();

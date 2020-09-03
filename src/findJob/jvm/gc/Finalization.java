@@ -1,7 +1,5 @@
 package findJob.jvm.gc;
 
-import java.lang.ref.ReferenceQueue;
-
 public class Finalization {
     public static Finalization finalization;
     @Override
