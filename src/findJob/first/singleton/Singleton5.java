@@ -9,7 +9,7 @@ package findJob.first.singleton;
  * 提供一个静态方法，获取这个实例对象
  */
 public class Singleton5 {
-    private static Singleton5 instance;
+    private static volatile Singleton5 instance;
     private Singleton5() {
 
     }

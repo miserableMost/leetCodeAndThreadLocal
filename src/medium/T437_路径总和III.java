@@ -11,13 +11,13 @@ public class T437_路径总和III {
     public int pathSum(TreeNode root,int sum){
         if(root == null)
             return 0;
-        return pathSum(root,sum) + dfs(root.left,sum) + dfs(root.right,sum);
+        return pathSum(root.left,sum) + pathSum(root.right,sum) + dfs(root,sum);
     }
-    public int dfs(TreeNode node,int sum) {
-        if(node == null)
+    public int dfs(TreeNode root,int sum){
+        if(root == null)
             return 0;
-        sum -= node.val;
-        int result = sum == 0 ? 0 : 1;
-        return result + dfs(node.left,sum) + dfs(node.right,sum);
+        sum -= root.val;
+        int result = sum == 0 ? 1 : 0;
+        return result + dfs(root.left,sum) + dfs(root.right,sum);
     }
 }

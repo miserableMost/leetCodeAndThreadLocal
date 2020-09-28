@@ -1,917 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c600c158-b654-4f97-bf24-4c7a192381b5" name="Default Changelist" comment="[最新提交]">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Alibaba/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Alibaba/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/E360/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/E360/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/E360/Main3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Test/MinStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tree/TestArr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exam/ExamTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jindong/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jindong/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/medium/T437_路径总和III.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/medium2/T284/llStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/meituan/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/meituan/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/meituan/Main3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/meituan/Main4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pinduoduo/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pinduoduo/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pinduoduo/Main3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pinduoduo/Main4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pinduoduo/Main5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sort/AlterPrinting3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sort/AxioBlockQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sort/DeadLockDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sort/HeapSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sort/KMP4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sort/ProductAndConsume.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tenxun/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tenxun/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tenxun/Main3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tenxun/Main4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/testAgin/LRUCache.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/testAgin/Singleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/testAgin/Te.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/testAgin/Te2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/testAgin/Trie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/testAgin/findMedianSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/testAgin/二叉树的序列化和反序列化.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/testAgin/回文对.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/testAgin/恢复二叉树.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/testAgin/数组中的逆序对.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tryTest/LruT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tryTest/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tryTest/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tryTest/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tryTest/Test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tryTest/Test4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tryTest/Test5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tryTest/Test6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tryTest/Test7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tryTest/Test_计算器.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tryTest/猿辅导1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tryTest/猿辅导2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tryTest/猿辅导2_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tryTest/猿辅导2_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tryTest/猿辅导3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tryTest/猿辅导3_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/wangyi/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/wangyi/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/wangyi/Main3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/wangyi/Main4.java" afterDir="false" />
+    <list default="true" id="c600c158-b654-4f97-bf24-4c7a192381b5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/baidu/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baidu/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baidu/Main3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bilibili/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bilibili/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bilibili/Main3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/didi/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/didi/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/didi/Main3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/huawei/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/huawei/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lastTest/T5_最长回文子串.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/medium/T372_超级次方.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shangtang/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shangtang/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shangtang/Main3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sougou/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sougou/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sougou/Main3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tencentWeiBao/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tencentWeiBao/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/testAgin/CountSub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/testAgin/longestCommon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/testAgin/大数相乘.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/testAgin/大数相减.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/testAgin/大数相加.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/testAgin/快速幂.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vivo/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vivo/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/wangyi2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/wangyi2/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/wangyi2/Main3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/wangyi2/Main4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/wangyi2/Main5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xiaomi/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xiaomi/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/中兴/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/中兴/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/依图/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/依图/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/依图/Main3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/依图/Main4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/招银/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/招银/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/招银/Main3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test2019/BubleSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test2019/Color.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test2019/GenericClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test2019/GenericFruit.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test2019/HuaWeiCode/data/test_data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test2019/HuaWeiCode/data/test_data.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test2019/HuaWeiCode/data/test_data2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test2019/HuaWeiCode/data/test_data2.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test2019/HuaWeiCode/demo2.zip" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test2019/HuaWeiCode/demo2.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test2019/HuaWeiCode/demo4/upload.zip" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test2019/HuaWeiCode/demo4/upload.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test2019/HuaWeiCode/demo5.zip" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test2019/HuaWeiCode/demo5.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test2019/HuaWeiCode/demo7.zip" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test2019/HuaWeiCode/demo7.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test2019/HuaWeiCode/testData/result.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test2019/HuaWeiCode/testData/result.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test2019/HuaWeiCode/testData/test_data2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test2019/HuaWeiCode/testData/test_data2.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test2019/InsertSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test2019/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test2019/MergeSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test2019/PSoffer/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test2019/PSoffer/ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test2019/PSoffer/T5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test2019/PSoffer/T5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test2019/PSoffer/T6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test2019/PSoffer/T6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test2019/QuickSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test2019/SelectSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test2019/Test/August/D14_orangesRotting_994.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test2019/Test/August/D14_orangesRotting_994.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test2019/findJob/jvm/gc/Finalization.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test2019/findJob/jvm/gc/Finalization.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test2019/findJob/second/threadpool/MyThreadPoolDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test2019/findJob/second/threadpool/MyThreadPoolDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test2019/findJob/thread/ReentrantLockDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test2019/findJob/thread/ReentrantLockDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test2019/hard/ByteDance/T1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test2019/hard/ByteDance/T1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test2019/hard/T23_mergeKLists_9_28.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test2019/hard/T23_mergeKLists_9_28.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test2019/hard/T297_Codec_10_7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test2019/hard/T297_Codec_10_7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test2019/hard/T32_longestValidParentheses_10_6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test2019/hard/T32_longestValidParentheses_10_6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test2019/hard/T72_minDistance_10_6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test2019/hard/T72_minDistance_10_6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test2019/hard/T76_minWindow_10_7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test2019/hard/T76_minWindow_10_7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test2019/hard/T85_maximalRectangle_10_7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test2019/hard/T85_maximalRectangle_10_7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test2019/medium/T105_buildTree_9_7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test2019/medium/T105_buildTree_9_7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test2019/medium/T106_buildTree_9_7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test2019/medium/T106_buildTree_9_7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test2019/medium/T120_minimumTotal_9_8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test2019/medium/T120_minimumTotal_9_8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test2019/medium/T148_sortList_8_24.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test2019/medium/T148_sortList_8_24.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test2019/medium/T151_reverseWords_9_11.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test2019/medium/T151_reverseWords_9_11.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test2019/medium/T16_threeSumClosest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test2019/medium/T16_threeSumClosest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test2019/medium/T33_search.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test2019/medium/T33_search.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test2019/medium/T36_isValidSudoku.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test2019/medium/T36_isValidSudoku.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test2019/medium/T43_multiply_8_29.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test2019/medium/T43_multiply_8_29.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test2019/medium/T48_rotate_8_29.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test2019/medium/T48_rotate_8_29.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test2019/medium/T56_merge_8_24$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test2019/medium/T56_merge_8_24.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test2019/medium/T56_merge_8_24.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test2019/medium/T64_minPathSum_8_31.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test2019/medium/T64_minPathSum_8_31.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test2019/medium/T75_sortColors_8_24.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test2019/medium/T75_sortColors_8_24.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test2019/medium/T86_partition_9_4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test2019/medium/T86_partition_9_4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test2019/Test/June/Test160_getIntersectionNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test2019/Test/June/Test160_getIntersectionNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test2019/findJob/first/singleton/Singleton5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test2019/findJob/first/singleton/Singleton5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test2019/medium/T18_fourSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test2019/medium/T18_fourSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test2019/medium/T34_searchRange.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test2019/medium/T34_searchRange.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test2019/medium/T73_setZeroes_9_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test2019/medium/T73_setZeroes_9_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test2019/medium/T74_searchMatrix_9_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test2019/medium/T74_searchMatrix_9_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test2019/medium/T77_combine_9_3.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Test2019/medium/T8_myAtoi_10_28.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test2019/medium/T8_myAtoi_10_28.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test2019/medium2/T221_maximalSquare_9_24.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test2019/medium2/T221_maximalSquare_9_24.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test2019/medium2/T228_summaryRanges_9_25.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test2019/medium2/T228_summaryRanges_9_25.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test2019/medium2/T309_maxProfit_10_7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test2019/medium2/T309_maxProfit_10_7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test2019/medium2/T406_reconstructQueue_10_8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test2019/medium2/T406_reconstructQueue_10_8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test2019/newTest/dfs/T207_canFinish_9_15.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Test2019/newTest/dfs/T207_canFinish_9_15.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithm/Kruskal/KruskalCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithm/Kruskal/KruskalCase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithm/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithm/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithm/binarysearchorecursion/BinarySearchNoRecur.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithm/binarysearchorecursion/BinarySearchNoRecur.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithm/dac/Hanoitower.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithm/dac/Hanoitower.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithm/dynamic/KnapsackProbkem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithm/dynamic/KnapsackProbkem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithm/floyd/FloydAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithm/floyd/FloydAlgorithm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithm/greedy/GreeayAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithm/greedy/GreeayAlgorithm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithm/horse/HorseChessBoard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithm/horse/HorseChessBoard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithm/kmp/KmpAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithm/kmp/KmpAlgorithm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithm/kmp/kmp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithm/kmp/kmp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Algorithm/prim/PrimAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithm/prim/PrimAlgorithm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructures/HashTable/HashTabDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructures/HashTable/HashTabDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructures/binarySortTree/BinarySortTreeDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructures/binarySortTree/BinarySortTreeDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructures/graph/Graph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructures/graph/Graph.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructures/huffmanCode/HuffmanCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructures/huffmanCode/HuffmanCode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructures/linkedList/DoubleLinkedListDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructures/linkedList/DoubleLinkedListDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructures/linkedList/Josepfu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructures/linkedList/Josepfu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructures/linkedList/SingleLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructures/linkedList/SingleLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructures/queue/ArrayQueueDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructures/queue/ArrayQueueDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructures/queue/CircleArrayQueueDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructures/queue/CircleArrayQueueDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructures/recursion/MiGong.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructures/recursion/MiGong.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructures/recursion/Queue8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructures/recursion/Queue8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructures/search/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructures/search/BinarySearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructures/search/FibonacciSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructures/search/FibonacciSearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructures/search/InsertValueSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructures/search/InsertValueSearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructures/search/SeqSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructures/search/SeqSearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructures/sort/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructures/sort/BubbleSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructures/sort/InsertSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructures/sort/InsertSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructures/sort/MergetSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructures/sort/MergetSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructures/sort/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructures/sort/QuickSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructures/sort/RadixSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructures/sort/RadixSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructures/sort/ShellSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructures/sort/ShellSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructures/sort/TestSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructures/sort/TestSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructures/sparseArray/SparseArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructures/sparseArray/SparseArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructures/stack/ArrayStackDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructures/stack/ArrayStackDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructures/stack/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructures/stack/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructures/stack/PolandNotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructures/stack/PolandNotation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructures/tree/ArrBinaryTreeDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructures/tree/ArrBinaryTreeDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructures/tree/BinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructures/tree/BinaryTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructures/tree/BinaryTreeDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructures/tree/BinaryTreeDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructures/tree/HeapSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructures/tree/HeapSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructures/tree/HeroNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructures/tree/HeroNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructures/tree/HuffmanTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructures/tree/HuffmanTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructures/tree/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructures/tree/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructures/tree/ThreadedBinaryTreeDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructures/tree/ThreadedBinaryTreeDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Heap/LeftistHeap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HuaWeiCode/data/test_data.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HuaWeiCode/data/test_data2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HuaWeiCode/data/test_data3.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HuaWeiCode/demo2.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HuaWeiCode/demo2/Main2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HuaWeiCode/demo2/Method.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HuaWeiCode/demo2/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HuaWeiCode/demo2/result.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HuaWeiCode/demo3/Main3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HuaWeiCode/demo3/MainTemp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HuaWeiCode/demo3/Method.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HuaWeiCode/demo3/Method3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HuaWeiCode/demo3/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HuaWeiCode/demo3/Test2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HuaWeiCode/demo3/result.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HuaWeiCode/demo4/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HuaWeiCode/demo4/Method.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HuaWeiCode/demo4/Method1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HuaWeiCode/demo4/Method2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HuaWeiCode/demo4/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HuaWeiCode/demo4/Node.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HuaWeiCode/demo4/test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HuaWeiCode/demo4/upload.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HuaWeiCode/demo5.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HuaWeiCode/demo5/Main5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HuaWeiCode/demo5/Method2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HuaWeiCode/demo5/Node.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HuaWeiCode/demo6/Main4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HuaWeiCode/demo6/Method.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HuaWeiCode/demo6/Method1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HuaWeiCode/demo6/Method2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HuaWeiCode/demo6/Method3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HuaWeiCode/demo6/Node.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HuaWeiCode/demo6/test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HuaWeiCode/demo7.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HuaWeiCode/demo7/AllCyclesInDirectedGraphJohnson.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HuaWeiCode/demo7/AllCyclesInDirectedGraphJohnson2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HuaWeiCode/demo7/AllCyclesInDirectedGraphTarjan.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HuaWeiCode/demo7/Graph.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HuaWeiCode/demo7/Main7.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HuaWeiCode/demo7/Method.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HuaWeiCode/demo7/TarjanStronglyConnectedComponent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HuaWeiCode/demo8/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HuaWeiCode/demo8/Method.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HuaWeiCode/demo8/Node.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HuaWeiCode/deom1/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HuaWeiCode/deom1/Method.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HuaWeiCode/deom1/result.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HuaWeiCode/mutiThreadDemo/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HuaWeiCode/mutiThreadDemo/Method.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HuaWeiCode/mutiThreadDemo/Node.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HuaWeiCode/projects/student/result.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HuaWeiCode/src/Config.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HuaWeiCode/src/GenerateTestData.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HuaWeiCode/testData/result.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HuaWeiCode/testData/test_data2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LittleTest/Little.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LittleTest/MaxSubSum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LittleTest/Test1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PSoffer/ListNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PSoffer/RandomListNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PSoffer/T1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PSoffer/T10.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PSoffer/T11.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PSoffer/T12.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PSoffer/T13.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PSoffer/T14.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PSoffer/T15.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PSoffer/T16.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PSoffer/T17.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PSoffer/T18.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PSoffer/T19.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PSoffer/T2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PSoffer/T20.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PSoffer/T21.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PSoffer/T22.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PSoffer/T23.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PSoffer/T24.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PSoffer/T25.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PSoffer/T26.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PSoffer/T27.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PSoffer/T28.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PSoffer/T29.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PSoffer/T3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PSoffer/T30.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PSoffer/T31.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PSoffer/T32.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PSoffer/T33.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PSoffer/T34.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PSoffer/T35.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PSoffer/T36.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PSoffer/T37.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PSoffer/T38.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PSoffer/T39.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PSoffer/T4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PSoffer/T40.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PSoffer/T41.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PSoffer/T42.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PSoffer/T43.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PSoffer/T44.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PSoffer/T45.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PSoffer/T46.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PSoffer/T47.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PSoffer/T48.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PSoffer/T49.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PSoffer/T5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PSoffer/T50.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PSoffer/T51.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PSoffer/T52.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PSoffer/T53.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PSoffer/T54.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PSoffer/T55.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PSoffer/T56.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PSoffer/T57.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PSoffer/T58.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PSoffer/T59.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PSoffer/T6.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PSoffer/T60.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PSoffer/T61.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PSoffer/T62.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PSoffer/T63.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PSoffer/T64.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PSoffer/T65.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PSoffer/T66.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PSoffer/T7.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PSoffer/T8.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PSoffer/T9.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PSoffer/TestSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PSoffer/TreeNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sort11begin/first/MyStack1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sort11begin/first/TwoStacksQueue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/April/MaxSumRec.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/April/OjiLIDe.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/April/Test001_twoSum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/April/Test064_mySqrt.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/April/Test070_climbStairs.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/April/Test083_deleteDuplicates.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/April/Test1013_canThreePartsEqualSum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/April/Test171_titleToNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/April/Test172_trailingZeroes.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/April/Test189_rotate.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/April/Test326_Test342_isPowerOfThree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/April/Test344_reverseString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/April/Test405_toHex.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/April/Test434_countSegments.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/April/Test438_findAnagrams.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/April/Test441_arrangeCoins.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/April/Test461_hammingDistance_REMEMBER.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/April/Test566_matrixReshape.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/April/Test581_findUnsortedSubarray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/April/Test661_imageSmoother.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/April/Test724_pivotIndex.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/April/Test744_nextGreatestLetter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/April/Test746_minCostClimbingStairs.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/April/Test747_dominantIndex.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/April/Test748_shortestCompletingWord.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/April/Test754_reachNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/April/Test925_isLongPressedName.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/April/Test929_numUniqueEmails.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/April/utils/HashFamily.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/April/utils/ListNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/April/utils/Test138_generate.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/April/utils/TestOk.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/April/utils/add.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/August/D10_getRow_119.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/August/D10_hasPathSum_112_Tree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/August/D10_pathSum_437.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/August/D10_plusOne_66.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/August/D11_isPowerOfTwo_231.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/August/D11_maxCount_598.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/August/D11_projectionArea_883.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/August/D12_canConstruct_383.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/August/D12_removeDuplicates_26.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/August/D12_removeElement_27.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/August/D12_reorderLogFiles_937.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/August/D12_reverseBits_190.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/August/D13_isRobotBounded_1041.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/August/D13_reverseStr_541.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/August/D13_reverse_7.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/August/D13_romanToInt_13.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/August/D13_rotateString_796.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/August/D14_checkRecord_551.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/August/D14_compress_443.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/August/D14_findErrorNums_645.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/August/D14_isSameTree_100_Tree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/August/D14_orangesRotting_994.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/August/D14_rotatedDigits_788.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/August/D14_searchBST_700.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/August/D14_searchInsert_35.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/August/D14_shortestToChar_821.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/August/D15_getSum_371.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/August/D15_isSubtree_572_Tree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/August/D15_judgeSquareSum_633.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/August/D15_surfaceArea_892.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/August/D1_findWords_500.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/August/D1_isIsomorphic_205_MIS.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/August/D1_islandPerimeter_463.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/August/D1_lastStoneWeight_1046.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/August/D1_leafSimilar_872_Tree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/August/D1_lemonadeChange_860.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/August/D2_findLHS_594.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/August/D2_findLUSlength_521.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/August/D2_findLengthOfLCIS_674.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/August/D2_lengthOfLastWord_58.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/August/D3_findMaxAverage_643.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/August/D3_majorityElement_169.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/August/D3_maxDepth_104_Tree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/August/D3_maxDepth_559_Tree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/August/D3_maxSubArray_53.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/August/D3_maximumProduct_628.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/August/D4_MinStack_155.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/August/D4_findRestaurant_599.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/August/D4_mergeTrees_617_Tree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/August/D4_merge_88.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/August/D4_minDepth_111_Tree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/August/D4_minMoves_453.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/August/D4_missingNumber_268.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/August/D5_findComplement_476.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/August/D5_hammingWeight_191.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/August/D5_moveZeroes_283.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/August/D5_numMovesStones_1033.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/August/D5_repeatedNTimes_961.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/August/D5_tribonacci_1137.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/August/D6_RecentCounter_933.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/August/D6_findOcurrences_1078.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/August/D6_getRow_119_NOTDO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/August/D6_numberOfLines_806.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/August/D6_reverseWords_557.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/August/D6_singleNumber_136.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/August/D6_smallestRangeI_908.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/August/D6_sortedSquares_977.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/August/Error.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/August/Node.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/August/T50_myPow.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/August/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/August/TreeNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/July/ListNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/July/Test1002_commonChars_27_REMEMBER.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/July/Test1009_bitwiseComplement_7_23.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/July/Test1018_prefixesDivBy5_7_22.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/July/Test1042_gardenNoAdj_30.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/July/Test1047_removeDuplicates.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/July/Test1051_heightChecker_31.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/July/Test1071_gcdOfStrings_30_REMEMBER_GCD.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/July/Test107_levelOrderBottom_7_22_Tree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/July/Test1089_duplicateZeros_25.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/July/Test108_sortedArrayToBST_7_23_Tree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/July/Test1103_distributeCandies_25.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/July/Test1108_defangIPaddr_7_24.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/July/Test110_isBalanced.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/July/Test121_maxProfit_7_22.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/July/Test122_maxProfit_REMEMBER.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/July/Test168_convertToTitle_25_REMEMBER.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/July/Test198_rob_31_REMEMBER_DP.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/July/Test2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/July/Test202_isHappy_30.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/July/Test204_countPrimes_7_23_REMEMBER.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/July/Test206_reverseList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/July/Test20_isValid.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/July/Test217_containsDuplicate_7_23.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/July/Test219_containsNearbyDuplicate_7_23_REMEMBER.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/July/Test225_MyStack.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/July/Test226_invertTree_31.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/July/Test232_MyQueue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/July/Test234_isPalindrome.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/July/Test242_isAnagram.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/July/Test257_binaryTreePaths.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/July/Test258_addDigits_REMEMBER.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/July/Test278_firstBadVersion_29.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/July/Test28_strStr_31.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/July/Test387_firstUniqChar_29_REMEMBER.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/July/Test389_findTheDifference.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/July/Test38_countAndSay_REWRITE.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/July/Test401_readBinaryWatch_7_23_REMEMBER.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/July/Test412_fizzBuzz_29.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/July/Test415_addStrings.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/July/Test448_findDisappearedNumbers_25_REWRITE.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/July/Test455_findContentChildren.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/July/Test475_findRadius_31.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/July/Test492_constructRectangle_7_23.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/July/Test496_nextGreaterElement_REMEMBER.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/July/Test501_findMode_27.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/July/Test509_fib_25.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/July/Test520_detectCapitalUse_7_24.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/July/Test538_convertBST_7_23.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/July/Test543_diameterOfBinaryTree_7_24.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/July/Test561_arrayPairSum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/July/Test563_findTilt.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/July/Test575_distributeCandies_25.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/July/Test605_canPlaceFlowers_7_23.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/July/Test606_tree2str_7_23.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/July/Test637_averageOfLevels_7_22.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/July/Test67_addBinary.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/July/Test682_calPoints.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/July/Test690_getImportance_25.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/July/Test693_hasAlternatingBits.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/July/Test696_countBinarySubstrings_7_23_REMEMBER.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/July/Test697_findShortestSubArray_7_24.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/July/Test704_search.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/July/Test717_isOneBitCharacter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/July/Test733_floodFill_29_REMEMBER_BFS.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/July/Test824_toGoatLatin_30.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/July/Test832_flipAndInvertImage_29.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/July/Test844_backspaceCompare.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/July/Test859_buddyStrings_7_23.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/July/Test868_binaryGap_7_22.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/July/Test888_fairCandySwap_25.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/July/Test893_numSpecialEquivGroups_30_REMEMBER.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/July/Test922_sortArrayByParityII.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/July/Test942_diStringMatch_7_24.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/July/Test944_minDeletionSize_7_24.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/July/Test976_largestPerimeter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/July/Test989_addToArrayForm.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/July/Test993_isCousins_7_23.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/July/Test997_findJudge_27.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/July/Test999_numRookCaptures.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/July/TreeNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/July/util/Employee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/June/ListNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/June/Test141_hasCycle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/June/Test160_getIntersectionNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/June/Test203_removeElements.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/June/Test21_mergeTwoLists.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/June/Test237_deleteNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/June/Test707_MyLinkedList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/June/Test867_transpose.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/June/Test876_middleNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/June/Test896_isMonotonic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/June/Test897_increasingBST.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/June/Test994_orangesRotting.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/June/TreeNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/May/Test1025_divisorGame.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/May/Test1029_twoCitySchedCost.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/May/Test1030_allCellsDistOrder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/May/Test345_reverseVowels.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/May/Test349_intersection.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/May/Test350_intersect.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/May/Test367_isPerfectSquare.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/May/Test477_numberOfBoomerangs.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/May/Test504_convertToBase7.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/May/Test506_findRelativeRank_findRelativeRanks.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test/May/Test720_longestWord.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designPattern/factory/AK_Bullet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/designPattern/factory/AK_Bullet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designPattern/factory/AK_Factory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/designPattern/factory/AK_Factory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designPattern/factory/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/designPattern/factory/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designPattern/factory/CircleFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/designPattern/factory/CircleFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designPattern/factory/Factory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/designPattern/factory/Factory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designPattern/factory/Factory2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/designPattern/factory/Factory2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designPattern/factory/Gun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/designPattern/factory/Gun.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designPattern/factory/M4A1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/designPattern/factory/M4A1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designPattern/factory/M4A1_Bullet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/designPattern/factory/M4A1_Bullet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designPattern/factory/M4A1_Factory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/designPattern/factory/M4A1_Factory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designPattern/factory/RectangleFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/designPattern/factory/RectangleFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designPattern/factory/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/designPattern/factory/Shape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designPattern/factory/ShapeFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/designPattern/factory/ShapeFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designPattern/factory/SquareFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/designPattern/factory/SquareFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designPattern/factory/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/designPattern/factory/Test2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designPattern/factory/Test3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/designPattern/factory/Test3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designPattern/factory/Test4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/designPattern/factory/Test4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designPattern/single/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/designPattern/single/Singleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designPattern/single/Singleton2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/designPattern/single/Singleton2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designPattern/single/Singleton3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/designPattern/single/Singleton3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/findJob/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/findJob/ListNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/findJob/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/findJob/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/findJob/bytecode/ByteCodeSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/findJob/bytecode/ByteCodeSample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/findJob/entities/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/findJob/entities/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/findJob/first/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/findJob/first/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/findJob/first/bianliang/Exam5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/findJob/first/bianliang/Exam5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/findJob/first/init/Son.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/findJob/first/init/Son.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/findJob/first/passvalue_code/Exam4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/findJob/first/passvalue_code/Exam4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/findJob/first/singleton/Singleton1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/findJob/first/singleton/Singleton1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/findJob/first/singleton/Singleton2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/findJob/first/singleton/Singleton2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/findJob/first/singleton/Singleton3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/findJob/first/singleton/Singleton3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/findJob/first/singleton/Singleton4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/findJob/first/singleton/Singleton4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/findJob/first/singleton/Singleton6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/findJob/first/singleton/Singleton6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/findJob/first/step/TestStep.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/findJob/first/step/TestStep.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/findJob/first/step/TestStep2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/findJob/first/step/TestStep2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/findJob/first/test/TestSingleton1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/findJob/first/test/TestSingleton1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/findJob/first/test/TestSingleton2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/findJob/first/test/TestSingleton2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/findJob/first/test/TestSingleton4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/findJob/first/test/TestSingleton4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/findJob/first/test/TestSingleton5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/findJob/first/test/TestSingleton5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/findJob/first/test/TestSinleton3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/findJob/first/test/TestSinleton3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/findJob/jvm/gc/Finalization.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/findJob/jvm/gc/Finalization.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/findJob/jvm/gc/MyObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/findJob/jvm/gc/MyObject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/findJob/jvm/gc/NormalObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/findJob/jvm/gc/NormalObject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/findJob/jvm/gc/NormalObjectWeakReference.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/findJob/jvm/gc/NormalObjectWeakReference.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/findJob/jvm/gc/ReferenceCounterProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/findJob/jvm/gc/ReferenceCounterProblem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/findJob/jvm/gc/ReferenceQueueTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/findJob/jvm/gc/ReferenceQueueTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/findJob/jvm/model/ByteCodeSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/findJob/jvm/model/ByteCodeSample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/findJob/jvm/model/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/findJob/jvm/model/Fibonacci.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/findJob/jvm/model/InternDifference.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/findJob/jvm/model/InternDifference.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/findJob/jvm/model/PermGenErrTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/findJob/jvm/model/PermGenErrTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/findJob/jvm/model/StackLeakByThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/findJob/jvm/model/StackLeakByThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/findJob/reflect/ClassLoaderChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/findJob/reflect/ClassLoaderChecker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/findJob/reflect/LoadDifference.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/findJob/reflect/LoadDifference.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/findJob/reflect/MyClassLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/findJob/reflect/MyClassLoader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/findJob/reflect/ReflectSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/findJob/reflect/ReflectSample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/findJob/reflect/Robot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/findJob/reflect/Robot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/findJob/second/DeadLockDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/findJob/second/DeadLockDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/findJob/second/JUC/ABADemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/findJob/second/JUC/ABADemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/findJob/second/JUC/AtomicReferenceDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/findJob/second/JUC/AtomicReferenceDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/findJob/second/JUC/CASDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/findJob/second/JUC/CASDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/findJob/second/JUC/ContainerNotSafeDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/findJob/second/JUC/ContainerNotSafeDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/findJob/second/JUC/CountDownLatchDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/findJob/second/JUC/CountDownLatchDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/findJob/second/JUC/CountryEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/findJob/second/JUC/CountryEnum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/findJob/second/JUC/CyclicBarrierDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/findJob/second/JUC/CyclicBarrierDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/findJob/second/JUC/ReSortSeqDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/findJob/second/JUC/ReSortSeqDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/findJob/second/JUC/SemaphoreDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/findJob/second/JUC/SemaphoreDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/findJob/second/JUC/SingletonDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/findJob/second/JUC/SingletonDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/findJob/second/JUC/TestTransferValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/findJob/second/JUC/TestTransferValue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/findJob/second/JUC/VolatileDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/findJob/second/JUC/VolatileDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/findJob/second/Sing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/findJob/second/Sing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/findJob/second/blockQueue/BlockingQueueDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/findJob/second/blockQueue/ProdConsumer_BlockQueueDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/findJob/second/blockQueue/ProdConsumer_BlockQueueDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/findJob/second/blockQueue/ProdConsumer_TraditionDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/findJob/second/blockQueue/ProdConsumer_TraditionDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/findJob/second/blockQueue/SychronousQueueDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/findJob/second/blockQueue/SychronousQueueDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/findJob/second/gcroots/GCRootsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/findJob/second/gcroots/GCRootsDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/findJob/second/gcroots/HelloGC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/findJob/second/gcroots/HelloGC.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/findJob/second/gcroots/PhantomReferenceDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/findJob/second/gcroots/PhantomReferenceDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/findJob/second/gcroots/ReferenceQueueDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/findJob/second/gcroots/ReferenceQueueDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/findJob/second/gcroots/SoftReferenceDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/findJob/second/gcroots/SoftReferenceDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/findJob/second/gcroots/StrongReferenceDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/findJob/second/gcroots/StrongReferenceDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/findJob/second/gcroots/WeakReferenceDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/findJob/second/gcroots/WeakReferenceDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/findJob/second/lock/ReadWriteLockDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/findJob/second/lock/ReadWriteLockDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/findJob/second/lock/ReenterLockDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/findJob/second/lock/ReenterLockDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/findJob/second/lock/SpinLockDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/findJob/second/lock/SpinLockDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/findJob/second/lock/T1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/findJob/second/lock/T1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/findJob/second/threadpool/MyThreadPoolDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/findJob/second/threadpool/MyThreadPoolDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/findJob/second/threadpool/ThreadPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/findJob/second/threadpool/ThreadPool.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/findJob/socket/TCPClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/findJob/socket/TCPClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/findJob/socket/TCPServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/findJob/socket/TCPServer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/findJob/socket/UDPClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/findJob/socket/UDPClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/findJob/socket/UDPServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/findJob/socket/UDPServer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/findJob/thread/CASCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/findJob/thread/CASCase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/findJob/thread/CoarseSync.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/findJob/thread/CoarseSync.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/findJob/thread/CurrentThreadDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/findJob/thread/CurrentThreadDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/findJob/thread/CycleWait.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/findJob/thread/CycleWait.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/findJob/thread/InterruptDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/findJob/thread/InterruptDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/findJob/thread/MyRunnable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/findJob/thread/MyRunnable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/findJob/thread/MyThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/findJob/thread/MyThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/findJob/thread/ReentrantLockDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/findJob/thread/ReentrantLockDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/findJob/thread/ReplaceDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/findJob/thread/ReplaceDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/findJob/thread/StringBufferWithoutSync.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/findJob/thread/StringBufferWithoutSync.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/findJob/thread/SyncBlockAndMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/findJob/thread/SyncBlockAndMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/findJob/thread/SyncThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/findJob/thread/SyncThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/findJob/thread/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/findJob/thread/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/findJob/thread/ThreadPoolDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/findJob/thread/ThreadPoolDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/findJob/thread/ThreadTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/findJob/thread/ThreadTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/findJob/thread/WaitSleepDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/findJob/thread/WaitSleepDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/findJob/thread/YieldDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/findJob/thread/YieldDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fundamental/T1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fundamental/T1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hard/ByteDance/B1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hard/ByteDance/B1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hard/ByteDance/T1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hard/ByteDance/T1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hard/ByteDance/T10.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hard/ByteDance/T1014_最佳观光组合.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hard/ByteDance/T11.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hard/ByteDance/T12.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hard/ByteDance/T1262_可被三整除的最大和.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hard/ByteDance/T13.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hard/ByteDance/T14.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hard/ByteDance/T15.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hard/ByteDance/T16.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hard/ByteDance/T17.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hard/ByteDance/T18.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hard/ByteDance/T19_面向对象.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hard/ByteDance/T2_REMEMBER.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hard/ByteDance/T3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hard/ByteDance/T3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hard/ByteDance/T351_安卓系统手势解锁.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hard/ByteDance/T386_字典树排数.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hard/ByteDance/T393_UTF8编码验证.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hard/ByteDance/T4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hard/ByteDance/T407_接雨水2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hard/ByteDance/T440_字典序的第K小数字.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hard/ByteDance/T442_数组中重复的数字_记住.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hard/ByteDance/T445_两数相加2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hard/ByteDance/T460/LFUCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hard/ByteDance/T460/LFUCache.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hard/ByteDance/T5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hard/ByteDance/T6.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hard/ByteDance/T670_最大交换.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hard/ByteDance/T678_有效的括号字符串.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hard/ByteDance/T718_最长重复子数组.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hard/ByteDance/T726_原子的数量.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hard/ByteDance/T7_推箱子.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hard/ByteDance/T856_括号的分数.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hard/ByteDance/T862_和至少为K的最短子数组.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hard/ByteDance/T871_最低加油次数.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hard/ByteDance/T8_编程题2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hard/ByteDance/T9.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hard/ByteDance/TestOka.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hard/ListNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hard/T10_isMatch_10_4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hard/T115_numDistinct.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hard/T123_maxProfit.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hard/T124_maxPathSum_11_3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hard/T124_maxPathSum_9_14.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hard/T126_findLadders_9_17.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hard/T128_longestConsecutive_10_7.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hard/T132_minCut.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hard/T135_candy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hard/T140_wordBreak.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hard/T149_maxPoints.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hard/T154_findMin.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hard/T164_maximumGap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hard/T174_calculateMinimumHP.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hard/T188_maxProfit.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hard/T238_maxSlidingWindow_10_7.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hard/T23_mergeKLists_9_28.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hard/T25_reverseKGroup_10_5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hard/T297_Codec_10_7.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hard/T30_findSubstring_10_29.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hard/T312_maxCoins_10_7_dp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hard/T329_longestIncreasingPath_10_26.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hard/T32_longestValidParentheses_10_6.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hard/T37_solveSudoku_9_19.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hard/T41_firstMissingPositive.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hard/T42_trap_10_6.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hard/T44_isMatch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hard/T45_jump.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hard/T4_findMedianSortedArrays_9_18_REMEMBER.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hard/T51_solveNQueens.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hard/T52_totalNQueens.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hard/T57_insert.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hard/T65_isNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hard/T68_fullJustify.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hard/T72_minDistance_10_6.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hard/T76_minWindow_10_7.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hard/T84_largestRectangleArea_10_7.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hard/T85_maximalRectangle_10_7.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hard/T87_isScramble.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hard/T97_isInterleave.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hard/T99_recoverTree_9_14.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hard/Test2020.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hard/TreeNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hard/dp/T1143_最长公共子序列.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hard/dp/T1143_最长公共子序列.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hard/dp/T165_粉刷房子2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hard/dp/T165_粉刷房子2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hard/dp/T256_粉刷房子.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hard/dp/T256_粉刷房子.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hard/dp/T300_最长上升子序列.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hard/dp/T300_最长上升子序列.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hard/dp/T321_拼接最大数.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hard/dp/T321_拼接最大数.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hard/dp/T343_整数拆分_记住.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hard/dp/T343_整数拆分_记住.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hard/dp/T354_俄罗斯套娃信封问题.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hard/dp/T354_俄罗斯套娃信封问题.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hard/dp/T361_轰炸敌人.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hard/dp/T361_轰炸敌人.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hard/dp/T368_最大整除子集.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hard/dp/T368_最大整除子集.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hard/dp/T375_猜数字大小2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hard/dp/T375_猜数字大小2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hash/CuckooHashTable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/ListNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T1003_isValid_8_18.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T102_levelOrder_9_7.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T1038_bstToGst_10_27.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T103_zigzagLevelOrder_8_18.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T105_buildTree_9_7.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T106_buildTree_9_7.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T109_sortedListToBST_9_7_REMEMBER.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T113_pathSum_9_8.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T114_flatten_9_8.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T116_connect_9_8.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T117_connect_9_8.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T11_maxArea_10_25.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T120_minimumTotal_9_8.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T127_ladderLength_9_8.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T129_sumNumbers_9_9.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T12_intToRoman_10_28.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T130_solve_9_9.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T131_partition_9_10.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T133_cloneGraph_9_10.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T134_canCompleteCircuit_8_24.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T137_singleNumber_8_25.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T137_singleNumber_9_10.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T138_copyRandomList_9_10.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T139_wordBreak_9_10.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T142_detectCycle_9_11.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T143_reorderList_9_11.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T144_preorderTraversal_8_18.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T146_LRUCache_10_7.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T147_insertionSortList_8_24.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T148_sortList_8_24.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T150_evalRPN_11.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T151_reverseWords_9_11.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T152_maxProduct_9_11.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T153_findMin_9_11.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T156_上下翻转二叉树.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T159_至多包含两个不同字符的最长子串.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T15_threeSum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T161_相隔为1的编辑距离.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T162_findPeakElement_9_12.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T163_缺失的区间.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T165_compareVersion_9_12.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T166_fractionToDecimal_9_13.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T16_threeSumClosest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T173_BSTIterator_8_18.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T179_largestNumber_8_24.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T17_letterCombinations_8_27.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T186_翻转字符串里的单词.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T187_findRepeatedDnaSequences_8_25.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T18_fourSum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T199_rightSideView_9_13.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T19_removeNthFromEnd_8_27.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T200_numIslands_9_13.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T220_containsNearbyAlmostDuplicate_8_24.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T22_generateParenthesis.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T247_中心对称数2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T249_移位字符串分组.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T250_统计同值子树.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T253_会议室.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T259_较小的三数之和.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T267_回文排列2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T274_hIndex_8_24.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T280_摆动序列.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T2_addTwoNumbers_10_14.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T304_NumMatrix_11_4/NumMatrix.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T307_NumArray_11_4/NumArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T310_findMinHeightTrees_11_5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T31_nextPermutation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T332_重新安排行程.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T33_search.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T34_searchRange.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T36_isValidSudoku.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T370_区间加法_很秀.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T376_摆动序列.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T398/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T39_combinationSum_8_29.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T3_lengthOfLongestSubstring_10_14.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T40_combinationSum2_8_29.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T43_multiply_8_29.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T457_环形数组循环_记住技巧.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T468_validIPAddress_10_27.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T46_permute_8_29.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T47_permuteUnique_8_29.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T48_rotate_8_29.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T49_groupAnagrams_8_16.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T54_spiralOrder_8_30.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T55_canJump_11_20.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T56_merge_8_24.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T59_generateMatrix_8_30.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T5_longestPalindrome_8_27.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T60_getPermutation_8_30.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T61_rotateRight_8_31_REMEMBER.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T62_uniquePaths_8_31_dp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T63_uniquePathsWithObstacles_dp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T64_minPathSum_8_31.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T6_convert.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T71_simplifyPath_9_2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T735_asteroidCollision_8_18.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T739_dailyTemperatures_8_18.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T73_setZeroes_9_2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T74_searchMatrix_9_2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T75_sortColors_8_24.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T77_combine_9_3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T78_subsets_8_25.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T79_exist_9_3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T80_removeDuplicates_9_3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T81_search_9_4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T82_deleteDuplicates_9_4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T86_partition_9_4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T89_grayCode_8_16.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T8_myAtoi_10_28.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T90_subsetsWithDup_9_5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T91_numDecodings_9_5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T92_reverseBetween_9_5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T93_restoreIpAddresses_9_5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T94_inorderTraversal_8_18.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T95_generateTrees_9_6.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T96_numTrees_9_6.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/T98_isValidBST_9_6.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/Test324_wiggleSort_10_20.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/TestMe.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/TestOK.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/TreeNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium2/T208_Trie_9_23.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium2/T211_WordDictionary_9_23.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium2/T213_rob_9_24.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium2/T216_combinationSum3_9_24.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium2/T221_maximalSquare_9_24.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium2/T222_countNodes_9_24.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium2/T223_computeArea_9_24.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium2/T227_calculate_9_25.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium2/T228_summaryRanges_9_25.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium2/T229_majorityElement_9_25.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium2/T238_productExceptSelf_9_25.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium2/T240_searchMatrix_9_26.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium2/T241_diffWaysToCompute_9_26.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium2/T260_singleNumber_9_26.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium2/T275_hIndex_9_26.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium2/T279_numSquares_9_27.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium2/T284/PeekingIterator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium2/T287_findDuplicate_9_27.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium2/T289_gameOfLife_9_27.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium2/T299_getHint_9_27.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium2/T300_lengthOfLIS_9_27.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium2/T309_maxProfit_10_7.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium2/T313_nthSuperUglyNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium2/T318_maxProduct.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium2/T319_bulbSwitch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium2/T322_coinChange_10_8.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium2/T331_isValidSerialization.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium2/T337_rob_10_8.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium2/T338_countBits_10_8.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium2/T347_topKFrequent_10_8.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium2/T394_decodeString_10_8.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium2/T399_calcEquation_10_8_NOTDO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium2/T406_reconstructQueue_10_8.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium2/T416_canPartition_10_8_dp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium2/T416_分割等和子集.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium2/T456_find132pattern.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium2/T474_一和零.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium2/T494_findTargetSumWays_10_8.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium2/T494_目标和.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium2/T516_最长回文子序列.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium2/T560_subarraySum_10_8.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium2/T621_leastInterval_10_8.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium2/T647_countSubstrings_10_8.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium2/T695_岛屿的最大面积.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium2/TreeNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium2/threadlocal/DiningPhilosophers.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium2/threadlocal/FizzBuzz.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium2/threadlocal/Foo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium2/threadlocal/FooBar.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium2/threadlocal/H2O.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium2/threadlocal/ZeroEvenOdd.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/newTest/T414_第三大的数.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/newTest/TreeNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/newTest/array/T209_minSubArrayLen_9_23.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/newTest/array/T4_findMedianSortedArrays_9_18_REMEMBER.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/newTest/dfs/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/newTest/dfs/T207_canFinish_9_15.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/newTest/dfs/T210_findOrder_9_16.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/newTest/dfs/T301_removeInvalidParentheses_9_16.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/newTest/dfs/T329_longestIncreasingPath_9_16.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/newTest/huisu/T306_isAdditiveNumber_9_18.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/newTest/huisu/T357_countNumbersWithUniqueDigits_9_18.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/newTest/huisu/Test78_subsets.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/newTest/tree/T145_postorderTraversal_9_17.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/newTest/tree/T230_kthSmallest_9_17.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/newTest/tree/T236_lowestCommonAncestor_9_17.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/niuke/Eval.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sort/BubleSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sort/Color.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sort/GenericClass.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sort/GenericFruit.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sort/InsertSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sort/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sort/MergeSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sort/QuickSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sort/SelectSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sort/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sort/Sort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sort/Test12.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sort/TestQucik.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Test2019/medium2/T394_decodeString_10_8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/findJob/first/singleton/Singleton5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/findJob/first/singleton/Singleton5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/medium/T437_路径总和III.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/medium/T437_路径总和III.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -954,55 +101,23 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/medium/T54_spiralOrder_8_30.java">
+        <entry file="file://$PROJECT_DIR$/src/tencentWeiBao/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-175">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/sort/AlterPrinting3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/sort/AxioBlockQueue.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1044">
-              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/sort/ProductAndConsume.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-625">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            <state relative-caret-position="225">
+              <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/sort/DeadLockDemo.java">
+        <entry file="file://$PROJECT_DIR$/src/tencentWeiBao/Main2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="15" column="72" selection-start-line="15" selection-start-column="72" selection-end-line="15" selection-end-column="72" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/medium/T49_groupAnagrams_8_16.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="226">
-              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+            <state relative-caret-position="325">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+              <folding>
+                <element signature="e#162#163#0" expanded="true" />
+                <element signature="e#213#214#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -1022,27 +137,15 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>T24</find>
-      <find>239</find>
-      <find>T247</find>
-      <find>T128</find>
-      <find>union</find>
-      <find>mai</find>
-      <find>Arrays.sort</find>
-      <find>零钱</find>
-      <find>T322</find>
       <find>994</find>
       <find>峰值</find>
       <find>T10</find>
-      <find>T438</find>
       <find>T239</find>
       <find>生产者</find>
       <find>T503</find>
       <find>螺旋</find>
       <find>TreeNode</find>
-      <find>T207</find>
       <find>计算器</find>
-      <find>T437</find>
       <find>T301</find>
       <find>lru</find>
       <find>T378</find>
@@ -1052,6 +155,18 @@
       <find>T232</find>
       <find>T215</find>
       <find>字符串</find>
+      <find>T454</find>
+      <find>T395</find>
+      <find>T543</find>
+      <find>T7</find>
+      <find>T160</find>
+      <find>T198</find>
+      <find>T207</find>
+      <find>T297</find>
+      <find>T437</find>
+      <find>T438</find>
+      <find>第k</find>
+      <find>重复</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -1060,9 +175,9 @@
     </replaceStrings>
     <dirStrings>
       <dir>E:\Test2019\src\</dir>
-      <dir>E:\Test2019\src\medium</dir>
       <dir>E:\Test2019\src\medium2</dir>
       <dir>E:\Test2019\src\Test</dir>
+      <dir>E:\Test2019\src\medium</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -1072,57 +187,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/pinduoduo/Main.java" />
-        <option value="$PROJECT_DIR$/src/pinduoduo/Main4.java" />
-        <option value="$PROJECT_DIR$/src/pinduoduo/Main3.java" />
-        <option value="$PROJECT_DIR$/src/hard/dp/T256_粉刷房子.java" />
-        <option value="$PROJECT_DIR$/../leetCode/leetcode/editor/cn/[301]删除无效的括号.java" />
-        <option value="$PROJECT_DIR$/../leetCode/leetcode/editor/cn/[406]根据身高重建队列.java" />
-        <option value="$PROJECT_DIR$/src/hard/T297_Codec_10_7.java" />
-        <option value="$PROJECT_DIR$/src/medium/T437_路径总和III.java" />
-        <option value="$PROJECT_DIR$/src/medium/T86_partition_9_4.java" />
-        <option value="$PROJECT_DIR$/src/testAgin/Singleton.java" />
-        <option value="$PROJECT_DIR$/src/sort/AlterPrinting.java" />
-        <option value="$PROJECT_DIR$/src/sort/AlterPrinting2.java" />
-        <option value="$PROJECT_DIR$/src/sort/MergeSort.java" />
-        <option value="$PROJECT_DIR$/src/wangyi/Main.java" />
-        <option value="$PROJECT_DIR$/src/wangyi/Main2.java" />
-        <option value="$PROJECT_DIR$/src/wangyi/Main3.java" />
-        <option value="$PROJECT_DIR$/src/wangyi/Main4.java" />
-        <option value="$PROJECT_DIR$/src/sort/KMP.java" />
-        <option value="$PROJECT_DIR$/src/sort/KMP4.java" />
-        <option value="$PROJECT_DIR$/src/sort/AxioBlockQueue.java" />
-        <option value="$PROJECT_DIR$/src/sort/ProductAndConsume.java" />
-        <option value="$PROJECT_DIR$/src/medium/T36_isValidSudoku.java" />
-        <option value="$PROJECT_DIR$/src/newTest/tree/T145_postorderTraversal_9_17.java" />
-        <option value="$PROJECT_DIR$/src/medium/T43_multiply_8_29.java" />
-        <option value="$PROJECT_DIR$/src/美团/Main2.java" />
-        <option value="$PROJECT_DIR$/src/美团/Main3.java" />
-        <option value="$PROJECT_DIR$/src/美团/Main4.java" />
-        <option value="$PROJECT_DIR$/src/meituan/Main2.java" />
-        <option value="$PROJECT_DIR$/src/meituan/Main3.java" />
-        <option value="$PROJECT_DIR$/src/meituan/Main.java" />
-        <option value="$PROJECT_DIR$/src/E360/Main2.java" />
-        <option value="$PROJECT_DIR$/src/meituan/Main4.java" />
-        <option value="$PROJECT_DIR$/src/E360/Main.java" />
-        <option value="$PROJECT_DIR$/src/E360/Main3.java" />
-        <option value="$PROJECT_DIR$/src/tenxun/Main3.java" />
-        <option value="$PROJECT_DIR$/src/tenxun/Main2.java" />
-        <option value="$PROJECT_DIR$/src/tenxun/Main.java" />
-        <option value="$PROJECT_DIR$/src/tenxun/Main4.java" />
-        <option value="$PROJECT_DIR$/src/sort/HeapSort.java" />
+        <option value="$PROJECT_DIR$/src/xiaomi/Main.java" />
+        <option value="$PROJECT_DIR$/src/xiaomi/Main2.java" />
+        <option value="$PROJECT_DIR$/src/lastTest/T5_最长回文子串.java" />
         <option value="$PROJECT_DIR$/src/medium/T8_myAtoi_10_28.java" />
-        <option value="$PROJECT_DIR$/src/Test/July/Test225_MyStack.java" />
-        <option value="$PROJECT_DIR$/src/medium2/T284/Stack.java" />
-        <option value="$PROJECT_DIR$/src/medium2/T284/MyStack.java" />
-        <option value="$PROJECT_DIR$/src/medium2/T284/llStack.java" />
-        <option value="$PROJECT_DIR$/src/tryTest/Test_计算器.java" />
-        <option value="$PROJECT_DIR$/src/jindong/Main2.java" />
-        <option value="$PROJECT_DIR$/src/jindong/Main.java" />
-        <option value="$PROJECT_DIR$/src/sort/AlterPrinting3.java" />
-        <option value="$PROJECT_DIR$/src/Alibaba/Main2.java" />
-        <option value="$PROJECT_DIR$/src/Alibaba/Main.java" />
-        <option value="$PROJECT_DIR$/src/sort/DeadLockDemo.java" />
+        <option value="$PROJECT_DIR$/src/medium/T139_wordBreak_9_10.java" />
+        <option value="$PROJECT_DIR$/src/Test/June/Test160_getIntersectionNode.java" />
+        <option value="$PROJECT_DIR$/src/medium/T437_路径总和III.java" />
+        <option value="$PROJECT_DIR$/src/wangyi2/Main3.java" />
+        <option value="$PROJECT_DIR$/src/wangyi2/Main4.java" />
+        <option value="$PROJECT_DIR$/src/wangyi2/Main5.java" />
+        <option value="$PROJECT_DIR$/src/findJob/second/blockQueue/ProdConsumer_TraditionDemo.java" />
+        <option value="$PROJECT_DIR$/src/findJob/first/singleton/Singleton5.java" />
+        <option value="$PROJECT_DIR$/src/wangyi2/Main2.java" />
+        <option value="$PROJECT_DIR$/src/wangyi2/Main.java" />
+        <option value="$PROJECT_DIR$/src/vivo/Main2.java" />
+        <option value="$PROJECT_DIR$/src/vivo/Main.java" />
+        <option value="$PROJECT_DIR$/src/didi/Main.java" />
+        <option value="$PROJECT_DIR$/src/didi/Main3.java" />
+        <option value="$PROJECT_DIR$/src/didi/Main2.java" />
+        <option value="$PROJECT_DIR$/src/baidu/Main2.java" />
+        <option value="$PROJECT_DIR$/src/baidu/Main3.java" />
+        <option value="$PROJECT_DIR$/src/baidu/Main.java" />
+        <option value="$PROJECT_DIR$/src/testAgin/CountSub.java" />
+        <option value="$PROJECT_DIR$/src/medium/T372_超级次方.java" />
+        <option value="$PROJECT_DIR$/src/testAgin/快速幂.java" />
+        <option value="$PROJECT_DIR$/src/testAgin/BigMulti.java" />
+        <option value="$PROJECT_DIR$/src/testAgin/大数相乘.java" />
+        <option value="$PROJECT_DIR$/src/testAgin/大数相加.java" />
+        <option value="$PROJECT_DIR$/src/testAgin/大数相减.java" />
+        <option value="$PROJECT_DIR$/src/testAgin/longestCommon.java" />
+        <option value="$PROJECT_DIR$/src/依图/Main4.java" />
+        <option value="$PROJECT_DIR$/src/依图/Main.java" />
+        <option value="$PROJECT_DIR$/src/依图/Main3.java" />
+        <option value="$PROJECT_DIR$/src/依图/Main2.java" />
+        <option value="$PROJECT_DIR$/src/medium/T18_fourSum.java" />
+        <option value="$PROJECT_DIR$/src/shangtang/Main.java" />
+        <option value="$PROJECT_DIR$/src/shangtang/Main3.java" />
+        <option value="$PROJECT_DIR$/src/shangtang/Main2.java" />
+        <option value="$PROJECT_DIR$/src/medium2/T394_字符串解码_10_8.java" />
+        <option value="$PROJECT_DIR$/src/medium/T34_searchRange.java" />
+        <option value="$PROJECT_DIR$/src/medium/T36_isValidSudoku.java" />
+        <option value="$PROJECT_DIR$/src/medium/T56_merge_8_24.java" />
+        <option value="$PROJECT_DIR$/src/medium/T73_setZeroes_9_2.java" />
+        <option value="$PROJECT_DIR$/src/medium/T74_searchMatrix_9_2.java" />
+        <option value="$PROJECT_DIR$/src/medium/T77_组合.java" />
+        <option value="$PROJECT_DIR$/src/medium/T78_subsets_8_25.java" />
+        <option value="$PROJECT_DIR$/src/huawei/Solution.java" />
+        <option value="$PROJECT_DIR$/src/huawei/Main.java" />
+        <option value="$PROJECT_DIR$/src/tencentWeiBao/Main.java" />
+        <option value="$PROJECT_DIR$/src/tencentWeiBao/Main2.java" />
+        <option value="$PROJECT_DIR$/src/medium/T2_addTwoNumbers_10_14.java" />
       </list>
     </option>
   </component>
@@ -1141,10 +256,9 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
-    <option name="width" value="1938" />
-    <option name="height" value="1048" />
+    <option name="x" value="-129" />
+    <option name="width" value="1940" />
+    <option name="height" value="1050" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -1156,7 +270,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -1179,21 +293,27 @@
               <item name="Test2019" type="b2602c69:ProjectViewProjectNode" />
               <item name="Test2019" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="sort" type="462c0819:PsiDirectoryNode" />
-              <item name="ProductAndConsume.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+              <item name="tencentWeiBao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Test2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Test2019" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="tencentWeiBao" type="462c0819:PsiDirectoryNode" />
+              <item name="Main2" type="1a9f42e2:ClassTreeNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1599054163999" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1600920562789" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../下的IT资源/IT资源/老祁秒杀/老齐秒杀/4.训练素材/3.源代码/3.源代码/babytun-seckill" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -1214,11 +334,11 @@
       <recent name="E:\Test2019\src\HuaWeiCode" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="Alibaba" />
-      <recent name="jindong" />
-      <recent name="tenxun" />
-      <recent name="E360" />
-      <recent name="美团" />
+      <recent name="tencentWeiBao" />
+      <recent name="shangtang" />
+      <recent name="依图" />
+      <recent name="baidu" />
+      <recent name="didi" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\Test2019\src\Test\October\T341" />
@@ -1243,13 +363,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DeadLockDemo">
-    <configuration name="DeadLockDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sort.DeadLockDemo" />
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="大数相减" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testAgin.大数相减" />
       <module name="Test2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sort.*" />
+          <option name="PATTERN" value="testAgin.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -1257,12 +377,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HeapSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sort.HeapSort" />
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="huawei.Main" />
       <module name="Test2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sort.*" />
+          <option name="PATTERN" value="huawei.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -1271,11 +391,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Alibaba.Main" />
+      <option name="MAIN_CLASS_NAME" value="shangtang.Main" />
       <module name="Test2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Alibaba.*" />
+          <option name="PATTERN" value="shangtang.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -1283,12 +403,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main4 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tenxun.Main4" />
+    <configuration name="Main3 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="shangtang.Main3" />
       <module name="Test2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tenxun.*" />
+          <option name="PATTERN" value="shangtang.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="依图.Main3" />
+      <module name="Test2019" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="依图.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="huawei.Solution" />
+      <module name="Test2019" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="huawei.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -1309,34 +455,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="llStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="medium2.T284.llStack" />
-      <module name="Test2019" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="medium2.T284.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.WaitNotifyRunnable" />
-      <item itemvalue="Application.Main4 (1)" />
-      <item itemvalue="Application.HeapSort" />
-      <item itemvalue="Application.llStack" />
+      <item itemvalue="Application.大数相减" />
+      <item itemvalue="Application.Main3" />
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.DeadLockDemo" />
+      <item itemvalue="Application.Main3 (1)" />
+      <item itemvalue="Application.Solution" />
+      <item itemvalue="Application.Main (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DeadLockDemo" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.Main3 (1)" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.llStack" />
-        <item itemvalue="Application.HeapSort" />
-        <item itemvalue="Application.Main4 (1)" />
+        <item itemvalue="Application.Main3" />
       </list>
     </recent_temporary>
   </component>
@@ -1834,11 +968,44 @@
       <workItem from="1598853931036" duration="4756000" />
       <workItem from="1598943030578" duration="4989000" />
       <workItem from="1599049131509" duration="3723000" />
+      <workItem from="1599096241320" duration="4793000" />
+      <workItem from="1599179861658" duration="5328000" />
+      <workItem from="1599227502292" duration="724000" />
+      <workItem from="1599270161017" duration="3874000" />
+      <workItem from="1599304172625" duration="70000" />
+      <workItem from="1599304266954" duration="281000" />
+      <workItem from="1599304576111" duration="2469000" />
+      <workItem from="1599360931952" duration="1278000" />
+      <workItem from="1599442814441" duration="599000" />
+      <workItem from="1599524143391" duration="6510000" />
+      <workItem from="1599636082296" duration="799000" />
+      <workItem from="1599636930849" duration="10135000" />
+      <workItem from="1599701518471" duration="11055000" />
+      <workItem from="1599790581914" duration="17228000" />
+      <workItem from="1599912081813" duration="1815000" />
+      <workItem from="1599993428482" duration="4354000" />
+      <workItem from="1600074913732" duration="6551000" />
+      <workItem from="1600239128666" duration="15667000" />
+      <workItem from="1600304108794" duration="16625000" />
+      <workItem from="1600394517430" duration="16162000" />
+      <workItem from="1600478957884" duration="12881000" />
+      <workItem from="1600580939924" duration="4991000" />
+      <workItem from="1600686553273" duration="844000" />
+      <workItem from="1600919652468" duration="1212000" />
+      <workItem from="1601254001809" duration="309000" />
     </task>
+    <task id="LOCAL-00001" summary="[最新提交]">
+      <created>1599096362127</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599096362127</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2774259000" />
+    <option name="totallyTimeSpent" value="2920813000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1850,11 +1017,11 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1927" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49787837" visible="true" weight="0.2727882" />
-      <window_info id="Structure" order="1" sideWeight="0.5021216" side_tool="true" weight="0.29758713" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49716714" visible="true" weight="0.28638497" />
+      <window_info id="Structure" order="1" sideWeight="0.5028329" side_tool="true" weight="0.2808311" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -1862,11 +1029,11 @@
       <window_info id="Favorites" order="6" sideWeight="0.5021216" side_tool="true" weight="0.29758713" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32152975" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49093816" weight="0.4164306" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.49858356" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49093816" weight="0.22237961" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.48725212" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49413645" weight="0.32827735" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49413645" weight="0.32719547" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
@@ -1885,7 +1052,7 @@
       <window_info anchor="right" id="Maven" order="6" sideWeight="0.49646392" weight="0.327748" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
-      <window_info anchor="right" x="772" y="54" width="355" height="1154" id="leetcode" order="9" sideWeight="0.50353605" side_tool="true" type="FLOATING" weight="0.15138593" />
+      <window_info anchor="right" x="813" y="-10" width="355" height="1154" id="leetcode" order="9" sideWeight="0.50353605" side_tool="true" type="FLOATING" weight="0.15138593" />
       <window_info anchor="right" id="Coverage" order="10" side_tool="true" weight="0.3297587" />
       <window_info anchor="right" id="Flutter Inspector" order="11" />
       <window_info anchor="right" id="Flutter Outline" order="12" weight="0.3297587" />
@@ -2041,6 +1208,30 @@
           <properties />
           <option name="timeStamp" value="191" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/bilibili/Main3.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="193" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/xiaomi/Main.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="194" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/lastTest/T5_最长回文子串.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="195" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/依图/Main3.java</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="201" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -2049,355 +1240,370 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/medium/T95_generateTrees_9_6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/medium/T96_numTrees_9_6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-224">
-          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/medium/T98_isValidBST_9_6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="431">
-          <caret line="35" column="13" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/medium/T102_levelOrder_9_7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-50">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/medium/T103_zigzagLevelOrder_8_18.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/medium/T105_buildTree_9_7.java">
+    <entry file="file://$PROJECT_DIR$/src/medium/T16_threeSumClosest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="226">
-          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/medium/T106_buildTree_9_7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/medium/T109_sortedListToBST_9_7_REMEMBER.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-674">
-          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/medium/T113_pathSum_9_8.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/medium/T114_flatten_9_8.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
           <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/medium/T116_connect_9_8.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/medium/T117_connect_9_8.java">
+    <entry file="file://$PROJECT_DIR$/src/medium/T31_nextPermutation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        <state relative-caret-position="-208">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/medium/T129_sumNumbers_9_9.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/medium/T150_evalRPN_11.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1">
-          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/tryTest/Test_计算器.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-344">
-          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/medium2/T449_序列化和反序列化二叉搜索树.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-433">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/hard/T239_滑动窗口最大值.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/hard/T1044_最长重复子串.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/hard/T329_longestIncreasingPath_10_26.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/hard/T472_连接词.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/hard/T238_maxSlidingWindow_10_7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/medium/T127_ladderLength_9_8.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/medium/T130_solve_9_9.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/medium/T131_partition_9_10.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/medium/T133_cloneGraph_9_10.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/medium/T134_canCompleteCircuit_8_24.java">
+    <entry file="file://$PROJECT_DIR$/src/hard/ByteDance/B1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-83">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/medium/T137_singleNumber_8_25.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/medium/T138_copyRandomList_9_10.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
           <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/medium/T139_wordBreak_9_10.java">
+    <entry file="file://$PROJECT_DIR$/src/hard/ByteDance/T1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="800">
-          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+        <state relative-caret-position="-375">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/medium/T142_detectCycle_9_11.java">
+    <entry file="file://$PROJECT_DIR$/src/hard/ByteDance/T3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        <state relative-caret-position="-194">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/medium/T143_reorderList_9_11.java">
+    <entry file="file://$PROJECT_DIR$/src/hard/ByteDance/T5.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        <state relative-caret-position="225">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/medium/T144_preorderTraversal_8_18.java">
+    <entry file="file://$PROJECT_DIR$/src/hard/ByteDance/T4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        <state relative-caret-position="475">
+          <caret line="84" column="18" lean-forward="true" selection-start-line="52" selection-start-column="7" selection-end-line="84" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/medium/T146_LRUCache_10_7.java">
+    <entry file="file://$PROJECT_DIR$/src/hard/ByteDance/T2_REMEMBER.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        <state relative-caret-position="-25">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/medium/T147_insertionSortList_8_24.java">
+    <entry file="file://$PROJECT_DIR$/src/shangtang/Main2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        <state relative-caret-position="1275">
+          <caret line="51" selection-start-line="2" selection-end-line="51" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/medium/T137_singleNumber_9_10.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sort/AlterPrinting.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/medium/T148_sortList_8_24.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/hard/T25_reverseKGroup_10_5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1600">
-          <caret line="64" column="5" selection-start-line="64" selection-start-column="5" selection-end-line="64" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/medium/T61_rotateRight_8_31_REMEMBER.java">
+    <entry file="file://$PROJECT_DIR$/src/shangtang/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1075">
-          <caret line="43" selection-start-line="43" selection-end-line="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jindong/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jindong/Main2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" selection-start-line="2" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/medium/T86_partition_9_4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sort/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-175">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Alibaba/Main2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="2" selection-start-line="6" selection-end-line="19" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Alibaba/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="606">
-          <caret line="60" column="57" selection-start-line="60" selection-start-column="57" selection-end-line="60" selection-end-column="57" />
+          <caret line="45" column="53" selection-start-line="45" selection-start-column="53" selection-end-line="45" selection-end-column="53" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/shangtang/Main3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/medium2/T394_字符串解码_10_8.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="431">
+          <caret line="58" column="17" selection-start-line="58" selection-start-column="17" selection-end-line="58" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/medium/T33_search.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="631">
+          <caret line="28" column="27" lean-forward="true" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/medium/T34_searchRange.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-319">
+          <caret line="29" column="26" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/medium/T36_isValidSudoku.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="19" column="14" lean-forward="true" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/medium/T40_combinationSum2_8_29.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-599">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/medium/T47_permuteUnique_8_29.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-494">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/medium/T48_rotate_8_29.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-449">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/medium/T49_groupAnagrams_8_16.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
+        <state>
           <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testAgin/快速幂.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/medium/T54_spiralOrder_8_30.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-175">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        <state relative-caret-position="306">
+          <caret line="34" column="45" lean-forward="true" selection-start-line="34" selection-start-column="45" selection-end-line="34" selection-end-column="45" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/sort/AlterPrinting3.java">
+    <entry file="file://$PROJECT_DIR$/src/medium/T55_canJump_11_20.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        <state relative-caret-position="-408">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/sort/AxioBlockQueue.java">
+    <entry file="file://$PROJECT_DIR$/src/medium/T56_merge_8_24.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1044">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        <state relative-caret-position="375">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/sort/ProductAndConsume.java">
+    <entry file="file://$PROJECT_DIR$/src/medium/T59_generateMatrix_8_30.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-625">
+        <state relative-caret-position="-394">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/medium/T62_uniquePaths_8_31_dp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-219">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/medium/T64_minPathSum_8_31.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-400">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/medium/T63_uniquePathsWithObstacles_dp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/medium/T71_simplifyPath_9_2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="28" column="17" lean-forward="true" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/medium/T73_setZeroes_9_2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="51" column="51" lean-forward="true" selection-start-line="51" selection-start-column="51" selection-end-line="51" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/medium/T74_searchMatrix_9_2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="40" column="14" lean-forward="true" selection-start-line="40" selection-start-column="14" selection-end-line="40" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/medium/T75_sortColors_8_24.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
           <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/medium/T77_组合.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/medium/T78_subsets_8_25.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1075">
+          <caret line="44" column="9" selection-start-line="44" selection-start-column="9" selection-end-line="44" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/medium/T79_exist_9_3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1100">
+          <caret line="44" column="41" selection-start-line="44" selection-start-column="41" selection-end-line="44" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/medium/T90_subsetsWithDup_9_5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/medium/T39_combinationSum_8_29.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="22" column="20" selection-start-line="20" selection-start-column="3" selection-end-line="22" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testAgin/大数相减.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testAgin/大数相加.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/medium/T46_permute_8_29.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testAgin/大数相乘.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sort/BubleSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sort/Color.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/sort/DeadLockDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="15" column="72" selection-start-line="15" selection-start-column="72" selection-end-line="15" selection-end-column="72" />
+        <state relative-caret-position="-250">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sort/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-275">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sort/MergeSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/huawei/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="9" column="41" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/huawei/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tencentWeiBao/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/medium/T2_addTwoNumbers_10_14.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="501">
+          <caret line="54" column="8" selection-start-line="54" selection-start-column="8" selection-end-line="54" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/medium/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tencentWeiBao/Main2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#162#163#0" expanded="true" />
+            <element signature="e#213#214#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
